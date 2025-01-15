@@ -18,7 +18,7 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="ZeeHindustan.in" tvg-logo="https://i.imgur.com/3eAZMxA.png" group-title="News",Zee Hindustan
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="ZeeRajasthan.in" tvg-logo="https://i.imgur.com/iYrrGlL.png" group-title="News",Zee Rajasthan
-https://la.drmlive.au/tp/zee-zeerajasthannews.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=78812&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/iYrrGlL.png" group-title="News",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="News18_Rajasthan.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="News",News18_Rajasthan
@@ -148,31 +148,31 @@ https://la.drmlive.au/tp/sliv.php?id=max2
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png" group-title="MOVIES",SONY WAH HD
 https://la.drmlive.au/tp/sliv.php?id=wah
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg/revision/latest?cb=20191214174432" group-title="MOVIES",ZEE BOLLYWOOD HD
-https://la.drmlive.au/tp/zee-zeeclassic.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",ZEE CINEMA HD
-https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",ZEE CINEMA 
-https://la.drmlive.au/tp/zee-zeecinema.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=14507&deviceMac=00:1A:79:0B:3E:D1
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",BBO CLASSIC
+http://tv.cloudcdn.me:80/live.ts?channelId=86150&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Zee_TV_Logo_2017.svg" group-title="Entertainment",ZEE TV HD
-https://la.drmlive.au/tp/zee-zeetvhd.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=217&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="MOVIES",ZEE ACTION HD
-https://la.drmlive.au/tp/zee-zeeaction.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",ZEE Anmol Cinema  2 HD
-https://la.drmlive.au/tp/zee-bigganga.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=89977&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",ZEE Anmol Cinema HD
-https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=209&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://starcabletvnetwork.com/wp-content/uploads/2024/05/zeeclassic_new-504x405-1.png" group-title="MOVIES",ZEE Classic
-https://la.drmlive.au/tp/zee-176.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=43379&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/%26priv%C3%A9_HD.svg" group-title="MOVIES",PRIVE HD
-https://la.drmlive.au/tp/zee-9z5543514.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=170&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/%26xplor_HD_logo.png" group-title="MOVIES",AND EXPLORE HD
-https://la.drmlive.au/tp/zee-209.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=80371&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",AND PICTURES HD
-https://la.drmlive.au/tp/zee-tvpictureshd.m3u8
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",AND PICTURES
-https://la.drmlive.au/tp/zee-pictures.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=14507&deviceMac=00:1A:79:0B:3E:D1
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",BBO HD
+http://tv.cloudcdn.me:80/live.ts?channelId=86148&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://seeklogo.com/images/1/flix-hd-logo-D0B321DA6F-seeklogo.com.png" group-title="MOVIES",AND Flix HD
-https://la.drmlive.au/tp/zee-channel_2105335046.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="MOVIES",Colors Cineplex
 http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/ba/Colors_TV.svg.png" group-title="Entertainment",Colors 

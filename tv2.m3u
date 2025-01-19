@@ -204,23 +204,23 @@ http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=5411&deviceMac=00:1A:79:78:EF
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Star_Bharat_logo.png" group-title="Entertainment",STAR BHARAT HD
 http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=5411&deviceMac=00:1A:79:78:EF:C7
 #EXTINF:-1 tvg-id="Sports18.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/270px-Sports18_logo.svg.png" group-title="Sports",Sports18
-https://drmlive.in/voot/122.m3u8
+https://mix.drmlive.au/mix/jc-122.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/irjv0u1574451153.png" group-title="Sports",Star Sports 1 TATA
 https://vaathala00.github.io/stream/hindi/master.m3u8?&play_token=join@vaathala1
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/irjv0u1574451153.png" group-title="Sports",Star Sports 1 LUX
-http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=3178&deviceMac=00:1A:79:78:EF:C7
+http://tv.cloudcdn.me:80/live.ts?channelId=49569&uid=7852&deviceMac=00:1A:79:CC:56:3B
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/irjv0u1574451153.png" group-title="Sports",Star Sports 1 Airtel
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/93725.ts
 #EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",DD Sports 1 
 http://tv.cloudcdn.me:80/live.ts?channelId=74567&uid=5411&deviceMac=00:1A:79:78:EF:C7
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://w7.pngwing.com/pngs/498/730/png-transparent-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-text-thumbnail.png" group-title="Sports",SKYSports 1
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/7343/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=35530&uid=7852&deviceMac=00:1A:79:CC:56:3B
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://w7.pngwing.com/pngs/498/730/png-transparent-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-text-thumbnail.png" group-title="Sports",SKYSports 2
 http://mag.king-4k.cc:80/70FDD09216CF367/FAmP4A57zR/101050
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png" group-title="Sports",SuperSports
 http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=13355&deviceMac=00:1A:79:72:D1:78
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro Sports
-http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=3178&deviceMac=00:1A:79:42:01:5D
+http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=3178&deviceMac=00:1A:79:17:BD:BB
 #EXTINF:-1 tvg-id="Willow Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",WILLOW Sports 1
 http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=5284&deviceMac=00:1A:79:78:EF:C7
 #EXTINF:-1 tvg-id="Willow Sports1.in" tvg-logo="https://image.pngaaa.com/428/3764428-middle.png" group-title="Sports",FOX SPORTS CRICKET 
@@ -228,15 +228,15 @@ http://tv.cloudcdn.me:80/live.ts?channelId=36128&uid=5411&deviceMac=00:1A:79:78:
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",WILLOW Sports 3
 http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=13355&deviceMac=00:1A:79:72:D1:78
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",WILLOW Sports 4
-http://fortv.cc:8080/live/23290078/13941299/41979.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=13355&deviceMac=00:1A:79:17:BD:BB
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV CRICKET
-http://tv.cloudcdn.me:80/live.ts?channelId=279&uid=5411&deviceMac=00:1A:79:78:EF:C7
+http://tv.cloudcdn.me:80/live.ts?channelId=279&uid=5411&deviceMac=00:1A:79:17:BD:BB
 #EXTINF:-1 group-title="KIDS",SONY YAY
 https://la.drmlive.au/tp/sliv-yay.m3u8
 #EXTINF:-1 group-title="KIDS",DISCOVERY KIDS
 http://tv.cloudcdn.me:80/live.ts?channelId=76048&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 group-title="KIDS",NICK HD
-http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96248.ts
+http://line.crystal-ott.com:80/4672883/UTHp2Q0pvB/3073
 #EXTINF:-1 group-title="KIDS",POGO
 http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 group-title="KIDS",CATOON NETWORK

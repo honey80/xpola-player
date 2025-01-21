@@ -222,15 +222,15 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=13355&deviceMac=00:1A:79:7
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro Sports
 http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=3178&deviceMac=00:1A:79:17:BD:BB
 #EXTINF:-1 tvg-id="Willow Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",WILLOW Sports 1
-http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=5284&deviceMac=00:1A:79:78:EF:C7
+http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=5284&deviceMac=00:1A:79:17:BD:BB
 #EXTINF:-1 tvg-id="Willow Sports1.in" tvg-logo="https://image.pngaaa.com/428/3764428-middle.png" group-title="Sports",FOX SPORTS CRICKET 
-http://tv.cloudcdn.me:80/live.ts?channelId=36128&uid=5411&deviceMac=00:1A:79:78:EF:C7
+http://tv.cloudcdn.me:80/live.ts?channelId=36128&uid=5411&deviceMac=00:1A:79:17:BD:BB
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",WILLOW Sports 3
-http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=13355&deviceMac=00:1A:79:72:D1:78
-#EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",WILLOW Sports 4
 http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=13355&deviceMac=00:1A:79:17:BD:BB
-#EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV CRICKET
-http://tv.cloudcdn.me:80/live.ts?channelId=279&uid=5411&deviceMac=00:1A:79:17:BD:BB
+#EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/270px-Sports18_logo.svg.png" group-title="Sports",Sports18 3
+https://jio.drmlive.au/jio/bpk-tv/Sports18_3_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/270px-Sports18_logo.svg.png" group-title="Sports",Sports18 2
+https://jio.drmlive.au/jio/bpk-tv/Sports18_2_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="KIDS",SONY YAY
 https://la.drmlive.au/tp/sliv-yay.m3u8
 #EXTINF:-1 group-title="KIDS",DISCOVERY KIDS

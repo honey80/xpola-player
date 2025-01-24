@@ -236,7 +236,7 @@ https://la.drmlive.au/tp/sliv-yay.m3u8
 #EXTINF:-1 group-title="KIDS",DISCOVERY KIDS
 http://tv.cloudcdn.me:80/live.ts?channelId=76048&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 group-title="KIDS",NICK HD
-http://line.crystal-ott.com:80/4672883/UTHp2Q0pvB/3073
+https://jt.drmlive.au/jiotvplus/545.mpd|license_type=clearkey&license_key=https://jt.drmlive.au/jiotvplus/jtck.php?id=545
 #EXTINF:-1 group-title="KIDS",POGO
 http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 group-title="KIDS",CATOON NETWORK

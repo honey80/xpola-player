@@ -222,9 +222,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=13355&deviceMac=00:1A:79:7
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro Sports
 http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=3178&deviceMac=00:1A:79:17:BD:BB
 #EXTINF:-1 tvg-id="Willow Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",WILLOW Sports 1
-http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=5284&deviceMac=00:1A:79:17:BD:BB
+https://la.drmlive.au/tp/sling-22.mpd|license_type=clearkey&license_key=https://la.drmlive.au/tp/sling_ck?id=22
 #EXTINF:-1 tvg-id="Willow Sports1.in" tvg-logo="https://image.pngaaa.com/428/3764428-middle.png" group-title="Sports",FOX SPORTS CRICKET 
-http://tv.cloudcdn.me:80/live.ts?channelId=36128&uid=5411&deviceMac=00:1A:79:17:BD:BB
+https://la.drmlive.au/tp/fox-501|user-agent=third-party
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",STAR Sports 2
 http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/63560
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/270px-Sports18_logo.svg.png" group-title="Sports",Sports18 3

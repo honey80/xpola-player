@@ -216,7 +216,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=74567&uid=5411&deviceMac=00:1A:79:78:
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://w7.pngwing.com/pngs/498/730/png-transparent-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-text-thumbnail.png" group-title="Sports",Star Sports 1 hd
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://w7.pngwing.com/pngs/498/730/png-transparent-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-text-thumbnail.png" group-title="Sports",SKYSports 2
-http://mag.king-4k.cc:80/70FDD09216CF367/FAmP4A57zR/101050
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png" group-title="Sports",SuperSports
 http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=13355&deviceMac=00:1A:79:72:D1:78
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro Sports

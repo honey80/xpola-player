@@ -103,8 +103,8 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg0
 http://tv.cloudcdn.me:80/live.ts?channelId=143&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 group-title="MUSIC",9X JALWA
 https://shorturl.at/j4X4c
-#EXTINF:-1 group-title="MUSIC",MASTI
-https://shorturl.at/XKm9Q
+#EXTINF:-1 group-title="MUSIC",Pitara Comedy
+https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",SAREGA HARYANVI
 https://shorturl.at/UfiT0
 #EXTINF:-1 group-title="MUSIC",YRF MUSIC
@@ -184,7 +184,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=157&uid=14507&deviceMac=00:1A:79:0B:3
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/MTV_Beats_Logo.png" group-title="MUSIC",MTVBeatsHD 
 http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://www.ptcnetwork.tv/wp-content/uploads/2016/06/images.png" group-title="MUSIC",PTC HD 
-https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/master.m3u8
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="MUSIC",MTV HD 
 http://tv.cloudcdn.me:80/live.ts?channelId=174&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/2349px-Star_Gold_2020.svg.png" group-title="MOVIES",STAR GOLD HD

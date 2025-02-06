@@ -154,7 +154,7 @@ http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/63581
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",BBO CLASSIC
 http://tv.cloudcdn.me:80/live.ts?channelId=86150&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/chimg/4314315925.png" group-title="Entertainment",ZEE TV HD
-http://tv.cloudcdn.me:80/live.ts?channelId=217&uid=14507&deviceMac=00:1A:79:0B:3E:D1
+http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102534&extension=ts&play_token=FH4s3182Ec
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="MOVIES",ZEE ACTION HD
 http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/1441440
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/chimg/8601046166.png" group-title="MOVIES",ZEE Anmol Cinema  2 HD
@@ -164,7 +164,7 @@ http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/63430
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://starcabletvnetwork.com/wp-content/uploads/2024/05/zeeclassic_new-504x405-1.png" group-title="MOVIES",ZEE Classic
 http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/452279
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/%26priv%C3%A9_HD.svg" group-title="MOVIES",PRIVE HD
-http://tv.cloudcdn.me:80/live.ts?channelId=170&uid=14507&deviceMac=00:1A:79:0B:3E:D1
+http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102536&extension=ts&play_token=0MlpSmNbL3
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/%26xplor_HD_logo.png" group-title="MOVIES",AND EXPLORE HD
 http://tv.cloudcdn.me:80/live.ts?channelId=80371&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",AND PICTURES HD
@@ -176,11 +176,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=14507&deviceMac=00:1A:79:0B
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="MOVIES",Colors Cineplex
 http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/ba/Colors_TV.svg.png" group-title="Entertainment",Colors 
-http://tv.cloudcdn.me:80/live.ts?channelId=160&uid=14507&deviceMac=00:1A:79:0B:3E:D1
+http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/63576
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/ba/Colors_TV.svg.png" group-title="Entertainment",And tv
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96198.ts
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png" group-title="Entertainment",Colors Infinity
-http://tv.cloudcdn.me:80/live.ts?channelId=157&uid=14507&deviceMac=00:1A:79:0B:3E:D1
+http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/63519
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/MTV_Beats_Logo.png" group-title="MUSIC",MTVBeatsHD 
 http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://www.ptcnetwork.tv/wp-content/uploads/2016/06/images.png" group-title="MUSIC",PTC HD 

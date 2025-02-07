@@ -174,7 +174,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=86148&uid=14507&deviceMac=00:1A:79:0B
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://seeklogo.com/images/1/flix-hd-logo-D0B321DA6F-seeklogo.com.png" group-title="MOVIES",AND Flix HD
 http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="MOVIES",Colors Cineplex
-http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=14507&deviceMac=00:1A:79:0B:3E:D1
+http://continental-accompanied-recovered-mhz.trycloudflare.com/TATA/manifest.php?id=61|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"|license_type=clearkey&license_key=http://continental-accompanied-recovered-mhz.trycloudflare.com/TATA/keys.php?id=61&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/ba/Colors_TV.svg.png" group-title="Entertainment",Colors 
 http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102520&extension=ts&play_token=zgYfqcUKZV
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/ba/Colors_TV.svg.png" group-title="Entertainment",And tv

@@ -166,16 +166,15 @@ http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/452279
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/%26priv%C3%A9_HD.svg" group-title="MOVIES",PRIVE HD
 http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102536&extension=ts&play_token=0MlpSmNbL3
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/%26xplor_HD_logo.png" group-title="MOVIES",AND EXPLORE HD
-http://tv.cloudcdn.me:80/live.ts?channelId=80371&uid=14507&deviceMac=00:1A:79:0B:3E:D1
+http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96344.ts
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",AND PICTURES HD
 http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/63580
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",BBO HD
-http://tv.cloudcdn.me:80/live.ts?channelId=86148&uid=14507&deviceMac=00:1A:79:0B:3E:D1
+http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/100804.ts
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://seeklogo.com/images/1/flix-hd-logo-D0B321DA6F-seeklogo.com.png" group-title="MOVIES",AND Flix HD
-http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=14507&deviceMac=00:1A:79:0B:3E:D1
+http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96274.ts
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="MOVIES",Colors Cineplex
-http://continental-accompanied-recovered-mhz.trycloudflare.com/TATA/manifest.php?id=61|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"|license_type=clearkey&license_key=http://continental-accompanied-recovered-mhz.trycloudflare.com/TATA/keys.php?id=61&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/ba/Colors_TV.svg.png" group-title="Entertainment",Colors 
+http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96204.ts
 http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102520&extension=ts&play_token=zgYfqcUKZV
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/ba/Colors_TV.svg.png" group-title="Entertainment",And tv
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96198.ts
@@ -190,13 +189,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=174&uid=14507&deviceMac=00:1A:79:0B:3
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/2349px-Star_Gold_2020.svg.png" group-title="MOVIES",STAR GOLD HD
 http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/63565
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/chimg/7018607859.png" group-title="Entertainment",STAR Plus HD
-http://45.148.145.57/IN_STARPLUHD/tracks-v1a1/mono.m3u8
+http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102529&extension=ts&play_token=e5qsn5c3Cw
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg" group-title="MOVIES",STAR GOLD Romance
 http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/112883
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/channels_icon/69390864761.png" group-title="MOVIES",STAR GOLD 2 HD
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96343.ts
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Star_Gold_Select.svg/revision/latest?cb=20211216003620" group-title="MOVIES",STAR GOLD SELECT HD
-http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=5411&deviceMac=00:1A:79:78:EF:C7
+http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102545&extension=ts&play_token=AwiXcz9tVX
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/channels_icon/75187279341.png" group-title="MOVIES",STAR movies HD
 http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102496&extension=ts&play_token=n13gfTaSMg
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/channels_icon/69390864761.png" group-title="MOVIES",STAR movies select HD

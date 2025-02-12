@@ -233,15 +233,15 @@ https://jio.drmlive.au/jio/bpk-tv/Sports18_2_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="KIDS",SONY YAY
 https://la.drmlive.au/tp/sliv-yay.m3u8
 #EXTINF:-1 group-title="KIDS",DISCOVERY KIDS
-http://tv.cloudcdn.me:80/live.ts?channelId=76048&uid=14507&deviceMac=00:1A:79:0B:3E:D1
+http://defaultgen.com:3050/live/md1956189@hotmail.com/MKjBVwrYyR/659467.ts
 #EXTINF:-1 group-title="KIDS",NICK HD
 https://mix.drmlive.au/mix/jc-1227.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="KIDS",POGO
-http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=14507&deviceMac=00:1A:79:0B:3E:D1
+http://defaultgen.com:3050/live/md1956189@hotmail.com/MKjBVwrYyR/659470.ts
 #EXTINF:-1 group-title="KIDS",CATOON NETWORK
-http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=14507&deviceMac=00:1A:79:0B:3E:D1
-#EXTINF:-1 group-title="KIDS",SONIC
-http://tv.cloudcdn.me:80/live.ts?channelId=40476&uid=14507&deviceMac=00:1A:79:0B:3E:D1
+http://defaultgen.com:3050/live/md1956189@hotmail.com/MKjBVwrYyR/659457.ts
+#EXTINF:-1 group-title="KIDS",Disney
+http://defaultgen.com:3050/live/md1956189@hotmail.com/MKjBVwrYyR/659460.ts
 #EXTINF:-1 group-title="Zee 5",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 group-title="Zee 5",$ Prive HD

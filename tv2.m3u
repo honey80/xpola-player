@@ -68,7 +68,7 @@ https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
 #EXTINF:-1 group-title="News",INDIA TV 
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 #EXTINF:-1 group-title="News",INDIA TV SPEED
-https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/master_1.m3u8
+https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/master.m3u8
 #EXTINF:-1 group-title="News",CNBC AWAAZ
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8?__hdnea__=st=1727629200~exp=1727715600~acl=/*~hmac=a12aa4bd6e3a9e7c4fb3fd029659cb13602aa4eadc811f6b2296c83893f2e125
 #EXTINF:-1 group-title="News",CNBC TV 18
@@ -100,7 +100,7 @@ https://shorturl.at/0VPKw
 #EXTINF:-1 group-title="Entertainment",HISTORY 18
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",9XM
-http://tv.cloudcdn.me:80/live.ts?channelId=143&uid=14507&deviceMac=00:1A:79:0B:3E:D1
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/dc4bf232-5c33-43d3-96ec-f23eda639c14/0.m3u8
 #EXTINF:-1 group-title="MUSIC",9X JALWA
 https://shorturl.at/j4X4c
 #EXTINF:-1 group-title="MUSIC",Pitara Comedy
@@ -108,7 +108,7 @@ https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01
 #EXTINF:-1 group-title="MUSIC",SAREGA HARYANVI
 https://shorturl.at/UfiT0
 #EXTINF:-1 group-title="MUSIC",YRF MUSIC
-http://tv.cloudcdn.me:80/live.ts?channelId=132375&uid=14507&deviceMac=00:1A:79:0B:3E:D1
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/27010465-46c3-4f01-b30c-be5f05ee4bfe/2.m3u8
 #EXTINF:-1 group-title="MUSIC",BALLE BALLE
 https://shorturl.at/9lHSQ
 #EXTINF:-1 group-title="MUSIC",SAGA MUSIC

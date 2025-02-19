@@ -203,7 +203,7 @@ http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=10251
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Star_Bharat_logo.png" group-title="Entertainment",STAR BHARAT HD
 http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102563&extension=ts&play_token=QlDYlfU2L5
 #EXTINF:-1 tvg-id="Sports18.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/270px-Sports18_logo.svg.png" group-title="Sports",Sports18
-https://mix.drmlive.au/mix/jc-122.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/irjv0u1574451153.png" group-title="Sports",Star Sports 1 Premium
 https://vaathala00.github.io/stream/hindi/master.m3u8?&play_token=join@vaathala1
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/irjv0u1574451153.png" group-title="Sports",Star Sports 1 LUX

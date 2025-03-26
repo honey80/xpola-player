@@ -133,10 +133,6 @@ https://la.drmlive.au/tp/sliv.php?id=sab
 https://la.drmlive.au/tp/sliv.php?id=maxhd
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://i.imgur.com/AFXPVYD.png" group-title="MOVIES",Sony MAX 
 https://la.drmlive.au/tp/sliv.php?id=max
-#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports Ten 1 (1080p)
-https://la.drmlive.au/tp/sliv.php?id=ten1hd
-#EXTINF:-1 tvg-id="SonySportsTen3.in" tvg-logo="https://i.imgur.com/vG19HxD.png" group-title="Sports",Sony Sports Ten 3 (1080p)
-https://la.drmlive.au/tp/sliv.php?id=ten3hd
 #EXTINF:-1 group-title="MOVIES",MINIPLEX
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96234.ts
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/4/4d/Sony_Pix_new_logo.png" group-title="MOVIES",SONY PIX HD

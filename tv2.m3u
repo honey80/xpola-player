@@ -4,7 +4,7 @@ https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak 2
 https://feeds.intoday.in/aajtak/api/at2/master.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak IPL
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV9.in" tvg-logo="https://images.tv9hindi.com/wp-content/uploads/2021/01/Tv9-Bharatvarsh-19.png" group-title="News",TV 9 BHARATVARSH
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsX.in" tvg-logo="https://karthavya.com/wp-content/uploads/2019/06/newsx-logo.jpg" group-title="News",NEWS X

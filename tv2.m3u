@@ -5,6 +5,8 @@ https://feeds.intoday.in/aajtak/api/master.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak IPL
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak IPL 2
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_HIN_IDC_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="TV9.in" tvg-logo="https://images.tv9hindi.com/wp-content/uploads/2021/01/Tv9-Bharatvarsh-19.png" group-title="News",TV 9 BHARATVARSH
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsX.in" tvg-logo="https://karthavya.com/wp-content/uploads/2019/06/newsx-logo.jpg" group-title="News",NEWS X
@@ -209,15 +211,15 @@ http://yesimes.oknirvana.club:8880/duliz0905a/2c5d9056/2879
 #EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 2 
 http://yesimes.oknirvana.club:8880/duliz0905a/2c5d9056/71109
 #EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 3 
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_HIN_IDC_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 4 
 http://supersonictv.live:8080/live/548104/479041/85565.ts
 #EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 5 
 http://megaott.live:8080/live/gJGhqFvycXv8/EgDTP3WPUz89/4917.ts
 #EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 6 
-https://dj-tm-srvr2.vercel.app/thrd_prty/hls/live/sky-sports-cricket-fhd50@DJ-TM.ts?ch_id=1482554%7CTelegram=@links_macha_official&Creator=@DJ-TM
+https://vaathala00.github.io/stream/english/master.m3u8?begin=20140124T134500&end=20140124T144500
 #EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 7 
-https://dj-tm-srvr2.vercel.app/thrd_prty/hls/live/supersport-cricket-hd@DJ-TM.ts?ch_id=248278%7CTelegram=@links_macha_official&Creator=@DJ-TM
+https://vaathala00.github.io/stream/hindi/master.m3u8?begin=20140124T134500&end=20140124T144500
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://w7.pngwing.com/pngs/498/730/png-transparent-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-text-thumbnail.png" group-title="Sports",Star Sports 1 ipl
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://w7.pngwing.com/pngs/498/730/png-transparent-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-text-thumbnail.png" group-title="Sports",SKYSports  ipl

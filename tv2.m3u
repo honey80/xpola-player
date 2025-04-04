@@ -133,22 +133,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://la.drmlive.au/tp/sliv.php?id=max
 #EXTINF:-1 group-title="MOVIES",MINIPLEX
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96234.ts
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg/revision/latest?cb=20191214174432" group-title="MOVIES",ZEE BOLLYWOOD HD
-http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",BBO CLASSIC
 http://tv.cloudcdn.me:80/live.ts?channelId=86150&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/chimg/4314315925.png" group-title="Entertainment",ZEE TV HD
 http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102534&extension=ts&play_token=FH4s3182Ec
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="MOVIES",ZEE ACTION HD
-http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/1441440
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/chimg/8601046166.png" group-title="MOVIES",ZEE Anmol Cinema  2 HD
-http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/1441441
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/chimg/8601046166.png" group-title="MOVIES",ZEE Anmol Cinema HD
-http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/63430
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://starcabletvnetwork.com/wp-content/uploads/2024/05/zeeclassic_new-504x405-1.png" group-title="MOVIES",ZEE Classic
 http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/452279
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/%26priv%C3%A9_HD.svg" group-title="MOVIES",PRIVE HD
-http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102536&extension=ts&play_token=0MlpSmNbL3
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/%26priv%C3%A9_HD.svg" group-title="MOVIES",Kadak
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=280798&extension=ts&play_token=xSfO0u24Lf
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/%26xplor_HD_logo.png" group-title="MOVIES",AND EXPLORE HD
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96344.ts
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://seeklogo.com/images/1/flix-hd-logo-D0B321DA6F-seeklogo.com.png" group-title="MOVIES",AND Flix HD
@@ -177,6 +169,16 @@ http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96343.ts
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=155970&extension=ts&play_token=lnaYcIMcxV
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",ZEE CINEMA HD
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=155975&extension=ts&play_token=peQdCvYP3p
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",ZEE CINEMA 
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=1532857&extension=ts&play_token=A2e7sTsH20
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="MOVIES",ZEE ACTION HD
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=156139&extension=ts&play_token=rjKIjEe8WP
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/chimg/8601046166.png" group-title="MOVIES",ZEE Classic
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=311858&extension=ts&play_token=BmoWl6CoQ2
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg/revision/latest?cb=20191214174432" group-title="MOVIES",ZEE BOLLYWOOD HD
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=311859&extension=ts&play_token=UYA0NlZd9q
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/chimg/8601046166.png" group-title="MOVIES",ZEE Anmol Cinema HD
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=156146&extension=ts&play_token=haDoh7C3EP
 #EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/irjv0u1574451153.png" group-title="Sports",Star Sports 1 Premium
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=1114582&extension=ts&play_token=zgXirYptwC
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",BBO HD

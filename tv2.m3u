@@ -129,26 +129,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 group-title="MOVIES",BOLLYWOOD CLASSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 tvg-id="SonySAB.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Sab_new.png/512px-Sony_Sab_new.png" group-title="Entertainment",Sony SAB 
-https://la.drmlive.au/tp/sliv.php?id=sab
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://i.imgur.com/AFXPVYD.png" group-title="MOVIES",Sony MAX HD
-https://la.drmlive.au/tp/sliv.php?id=maxhd
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://i.imgur.com/AFXPVYD.png" group-title="MOVIES",Sony MAX 
 https://la.drmlive.au/tp/sliv.php?id=max
 #EXTINF:-1 group-title="MOVIES",MINIPLEX
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96234.ts
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/4/4d/Sony_Pix_new_logo.png" group-title="MOVIES",SONY PIX HD
-https://la.drmlive.au/tp/sliv.php?id=pix
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SONY HD
-https://la.drmlive.au/tp/sliv.php?id=sony
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png" group-title="MOVIES",SONY MAX 2 HD
-https://la.drmlive.au/tp/sliv.php?id=max2
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png" group-title="MOVIES",SONY WAH HD
-https://la.drmlive.au/tp/sliv.php?id=wah
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg/revision/latest?cb=20191214174432" group-title="MOVIES",ZEE BOLLYWOOD HD
 http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=14507&deviceMac=00:1A:79:0B:3E:D1
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",ZEE CINEMA HD
-http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/63581
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",BBO CLASSIC
 http://tv.cloudcdn.me:80/live.ts?channelId=86150&uid=14507&deviceMac=00:1A:79:0B:3E:D1
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/chimg/4314315925.png" group-title="Entertainment",ZEE TV HD
@@ -165,14 +151,36 @@ http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/452279
 http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102536&extension=ts&play_token=0MlpSmNbL3
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/%26xplor_HD_logo.png" group-title="MOVIES",AND EXPLORE HD
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96344.ts
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",AND PICTURES HD
-http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/63580
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",BBO HD
-http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/100804.ts
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://seeklogo.com/images/1/flix-hd-logo-D0B321DA6F-seeklogo.com.png" group-title="MOVIES",AND Flix HD
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96274.ts
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",AND PICTURES HD
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=280744&extension=ts&play_token=7Lkfdzb6Ts
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="MOVIES",Colors Cineplex
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96204.ts
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SONY HD
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=156170&extension=ts&play_token=UegGAUYFhf
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Sab_new.png/512px-Sony_Sab_new.png" group-title="Entertainment",Sony SAB 
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=156014&extension=ts&play_token=DxpyBbCaqa
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://i.imgur.com/AFXPVYD.png" group-title="MOVIES",Sony MAX HD
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=156013&extension=ts&play_token=RpJWaqPM7x
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png" group-title="MOVIES",SONY MAX 2 HD
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=156118&extension=ts&play_token=SGHBgsF0yl
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/4/4d/Sony_Pix_new_logo.png" group-title="MOVIES",SONY PIX HD
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=156004&extension=ts&play_token=K3a3Cqq3Gr
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png" group-title="MOVIES",SONY WAH HD
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=156039&extension=ts&play_token=bBjztVYn3A
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/2349px-Star_Gold_2020.svg.png" group-title="MOVIES",STAR GOLD HD
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=155969&extension=ts&play_token=qS7PheZJA8
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/channels_icon/69390864761.png" group-title="MOVIES",STAR GOLD 2 HD
+http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96343.ts
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Star_Gold_Select.svg/revision/latest?cb=20211216003620" group-title="MOVIES",STAR GOLD SELECT HD
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=155970&extension=ts&play_token=lnaYcIMcxV
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",ZEE CINEMA HD
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=155975&extension=ts&play_token=peQdCvYP3p
+#EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/irjv0u1574451153.png" group-title="Sports",Star Sports 1 Premium
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:19:1D:22&stream=1114582&extension=ts&play_token=zgXirYptwC
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",BBO HD
+http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/100804.ts
 http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102520&extension=ts&play_token=zgYfqcUKZV
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/ba/Colors_TV.svg.png" group-title="Entertainment",And tv
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96198.ts
@@ -184,24 +192,14 @@ http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=14507&deviceMac=00:1A:79:0B:3
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/master.m3u8
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="MUSIC",MTV HD 
 http://tv.cloudcdn.me:80/live.ts?channelId=174&uid=14507&deviceMac=00:1A:79:0B:3E:D1
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/2349px-Star_Gold_2020.svg.png" group-title="MOVIES",STAR GOLD HD
-http://line.zaptvgold.tv:80/toJMPVERFHucQnp/B4At6qY6Dl/63565
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/chimg/7018607859.png" group-title="Entertainment",STAR Plus HD
 http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102529&extension=ts&play_token=e5qsn5c3Cw
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg" group-title="MOVIES",STAR GOLD Romance
 https://arab-olympics-house-person.trycloudflare.com/JStar/IPL/hls/live/master.m3u8?cid=1540040201&lang=hin&qlt=FHD
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/channels_icon/69390864761.png" group-title="MOVIES",STAR GOLD 2 HD
-http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96343.ts
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Star_Gold_Select.svg/revision/latest?cb=20211216003620" group-title="MOVIES",STAR GOLD SELECT HD
-http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102545&extension=ts&play_token=AwiXcz9tVX
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/channels_icon/75187279341.png" group-title="MOVIES",STAR movies HD
 http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102496&extension=ts&play_token=n13gfTaSMg
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/channels_icon/69390864761.png" group-title="MOVIES",STAR movies select HD
-http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102518&extension=ts&play_token=EDQQUK6tp6
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Star_Bharat_logo.png" group-title="Entertainment",STAR BHARAT HD
 http://edge.19741977.network:80/play/live.php?mac=00:1A:79:57:FB:64&stream=102563&extension=ts&play_token=QlDYlfU2L5
-#EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/irjv0u1574451153.png" group-title="Sports",Star Sports 1 Premium
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/irjv0u1574451153.png" group-title="Sports",Star Sports 1 LUX
 http://defaultgen.com:3050/live/md1956189@hotmail.com/MKjBVwrYyR/659507.ts
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/irjv0u1574451153.png" group-title="Sports",Star Sports 1 Airtel

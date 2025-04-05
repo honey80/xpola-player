@@ -300,28 +300,20 @@ https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Ten 5
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF:-1 group-title="Jio Cinema",Nick Jr
-https://mix.drmlive.au/mix/jc-544.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Jio Cinema",Nick Hd
-https://mix.drmlive.au/mix/jc-1226.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Jio Cinema",Nick 
-https://mix.drmlive.au/mix/jc-1227.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v18tataplaysyndication.akamaized.net/bpk-tv/Nick_voot_MOB/output03/hdntl=exp=1743915283~acl=%2f*~data=hdntl~hmac=1d895fa0a598b489b042fede5a8c540a63507057cf98f05ea4fdfc01a84e286d/Nick_voot_MOB-audio_98836_eng=98800-video=1680400.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Jio Cinema",Colors
-https://mix.drmlive.au/mix/jc-144.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v18tataplaysyndication.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output03/hdntl=exp=1743915381~acl=%2f*~data=hdntl~hmac=b8c825f22ce8a2c7d1725f707bc2d1a5f700e60e51716c9972ffcc8bef942630/Colors_HD_voot_MOB-audio_98835_hin=98800-video=3724000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Jio Cinema",Rishtey
-https://mix.drmlive.au/mix/jc-1370.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v18tataplaysyndication.akamaized.net/bpk-tv/Colors_Rishtey_voot_MOB/output03/hdntl=exp=1743915459~acl=%2f*~data=hdntl~hmac=2e31762690c77a2283f4c771bd37b60cccea83cf80cb508ba8fcad395b5288d2/Colors_Rishtey_voot_MOB-audio_98835_hin=98800-video=3724000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Jio Cinema",Colors infinity
-https://mix.drmlive.au/mix/jc-1158.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Jio Cinema",Comedy Central
-https://mix.drmlive.au/mix/jc-1157.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v18tataplaysyndication.akamaized.net/bpk-tv/Colors_Infinity_HD_voot_MOB/output03/hdntl=exp=1743915588~acl=%2f*~data=hdntl~hmac=46b60092885d72ad9492783f4b6eda5525a397cd7d15aa79fc6276a9710a278c/Colors_Infinity_HD_voot_MOB-audio_98834_hin=98800-video=3724000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Jio Cinema",Colors Cineplex HD
+https://v18tataplaysyndication.akamaized.net/bpk-tv/Colors_Cineplex_voot_MOB/output03/hdntl=exp=1743915518~acl=%2f*~data=hdntl~hmac=03fd003eba4b040a03ee042f443616dc6ff3379badccd223522c73bd334504ee/Colors_Cineplex_voot_MOB-audio_98835_hin=98800-video=3724000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Jio Cinema",Colors Cineplex
-https://v18tataplaysyndication.akamaized.net/bpk-tv/Colors_Cineplex_voot_MOB/output03/hdntl=exp=1743816934~acl=%2F*~data=hdntl~hmac=c9280b37a6f9281cef0652b738f69140f3a2087e8de0671d5a3b06e62f1adb45/Colors_Cineplex_voot_MOB-audio_98835_hin=98800-video=3724000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Jio Cinema",Colors Superhit
-https://mix.drmlive.au/mix/jc-1450.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v18tataplaysyndication.akamaized.net/bpk-tv/Colors_Cineplex_SD_voot_MOB/output03/hdntl=exp=1743915702~acl=%2f*~data=hdntl~hmac=856f25760be8b9eb1839418d62fb569210d0ff7ee1e42e4cbcd14204086d1e3e/Colors_Cineplex_SD_voot_MOB-audio_98836_eng=98800-video=699600.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Jio Cinema",Cineplex Bollywood
-https://mix.drmlive.au/mix/jc-1763.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v18tataplaysyndication.akamaized.net/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/output03/hdntl=exp=1743915798~acl=%2f*~data=hdntl~hmac=b243d177d8d87602cb6e204a8cbddba0be788308d8d8a7910307fceca3783da7/Colors_Cineplex_Bollywood_voot_MOB-audio_98835_hin=98800-video=1680400.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Jio Cinema",MTV
-https://mix.drmlive.au/mix/jc-1145.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Jio Cinema",MTV Beats
-https://mix.drmlive.au/mix/jc-753.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v18tataplaysyndication.akamaized.net/bpk-tv/MTV_HD_Plus_voot_MOB/output03/hdntl=exp=1743915852~acl=%2f*~data=hdntl~hmac=c4b00a73da6e9689971e27bcd0364ec8d59375f03fadecd2e180a608c43605d6/MTV_HD_Plus_voot_MOB-audio_98835_eng=98800-video=2293600.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 

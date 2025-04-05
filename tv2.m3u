@@ -6,7 +6,7 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra|user-
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak IPL
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak IPL 2
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_HIN_IDC_MOB/Fallback/index.m3u8
+http://line.crystal-ott.com:80/4672883/WPTy2YndPA/2755
 #EXTINF:-1 tvg-id="TV9.in" tvg-logo="https://images.tv9hindi.com/wp-content/uploads/2021/01/Tv9-Bharatvarsh-19.png" group-title="News",TV 9 BHARATVARSH
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsX.in" tvg-logo="https://karthavya.com/wp-content/uploads/2019/06/newsx-logo.jpg" group-title="News",NEWS X

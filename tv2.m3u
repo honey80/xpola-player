@@ -319,9 +319,9 @@ https://v18tataplaysyndication.akamaized.net/bpk-tv/MTV_HD_Plus_voot_MOB/output0
 #EXTINF:-1 group-title="Jio Cinema",STAR SPORTS 2 HINDI
 https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1744082233~acl=%2F*~data=hdntl~hmac=543c5b9c95921b5c0492221063ac328c2c0fd21718e93182a0e62cc549d7c2aa/Sports18_1_HD_voot_MOB-audio_108038_eng=108000-video=2297600.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="TATA IPL 2025", M1
-http://line.crystal-ott.com:80/4672883/WPTy2YndPA/989552
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1698894&extension=ts&play_token=JIGd442bBM
 #EXTINF:-1 group-title="TATA IPL 2025", M2
-http://line.crystal-ott.com:80/4672883/WPTy2YndPA/2755
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1114582&extension=ts&play_token=1xHyfNtuPq
 #EXTINF:-1 group-title="TATA IPL 2025", M3
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1114582&extension=ts&play_token=2GMAcUPVaw
 #EXTINF:-1 group-title="TATA IPL 2025", M4

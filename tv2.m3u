@@ -103,16 +103,12 @@ https://shorturl.at/NNrev
 https://shorturl.at/0VPKw
 #EXTINF:-1 group-title="Entertainment",HISTORY 18
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",9XM
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/dc4bf232-5c33-43d3-96ec-f23eda639c14/0.m3u8
 #EXTINF:-1 group-title="MUSIC",9X JALWA
 https://shorturl.at/j4X4c
 #EXTINF:-1 group-title="MUSIC",Pitara Comedy
 https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",SAREGA HARYANVI
 https://shorturl.at/UfiT0
-#EXTINF:-1 group-title="MUSIC",YRF MUSIC
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/27010465-46c3-4f01-b30c-be5f05ee4bfe/2.m3u8
 #EXTINF:-1 group-title="MUSIC",BALLE BALLE
 https://shorturl.at/9lHSQ
 #EXTINF:-1 group-title="MUSIC",SAGA MUSIC
@@ -195,6 +191,32 @@ http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=155971&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=156173&extension=ts&play_token=4vnGqqpIRT
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png" group-title="Entertainment",Colors
 http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=156172&extension=ts&play_token=4vnGqqpIRT
+#EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://w7.pngwing.com/pngs/498/730/png-transparent-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-text-thumbnail.png" group-title="Sports",Sky Sports HD
+http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1104668&extension=ts&play_token=4vnGqqpIRT
+#EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://w7.pngwing.com/pngs/498/730/png-transparent-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-text-thumbnail.png" group-title="Sports",SUPER Sports  HD
+http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1104669&extension=ts&play_token=4vnGqqpIRT
+#EXTINF:-1 tvg-id="Willow Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports", WILLOW 
+http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1142110&extension=ts&play_token=4vnGqqpIRT
+#EXTINF:-1 group-title="Sports", FOX CRICKET
+http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1104678&extension=ts&play_token=4vnGqqpIRT
+#EXTINF:-1 group-title="Sports", ASTRO CRICKET
+http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1104670&extension=ts&play_token=4vnGqqpIRT
+#EXTINF:-1 group-title="KIDS",SONY YAY
+http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1104678&extension=ts&play_token=4vnGqqpIRT
+#EXTINF:-1 group-title="KIDS",DISNEY 2
+http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=811469&extension=ts&play_token=4vnGqqpIRT
+#EXTINF:-1 group-title="KIDS",DISNEY 3
+http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1158195&extension=ts&play_token=4vnGqqpIRT
+#EXTINF:-1 group-title="KIDS",DISNEY 4
+http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=156000&extension=ts&play_token=4vnGqqpIRT
+#EXTINF:-1 group-title="Entertainment",NAT GEO WILD
+http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=155989&extension=ts&play_token=4vnGqqpIRT
+#EXTINF:-1 group-title="Entertainment",DISCOVERY WORLD
+http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=155999&extension=ts&play_token=4vnGqqpIRT
+#EXTINF:-1 group-title="Entertainment",BBC EARTH
+http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=156012&extension=ts&play_token=4vnGqqpIRT
+#EXTINF:-1 group-title="Entertainment",ANIMAL PLANET
+http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=156168&extension=ts&play_token=4vnGqqpIRT
 #EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/irjv0u1574451153.png" group-title="Sports",Star Sports 1 Premium
 http://23232.top:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1114582&extension=ts&play_token=4vnGqqpIRT
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",BBO HD
@@ -216,35 +238,19 @@ http://yesimes.oknirvana.club:8880/duliz0905a/2c5d9056/2879
 #EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 2 
 http://yesimes.oknirvana.club:8880/duliz0905a/2c5d9056/71109
 #EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 3 
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_HIN_IDC_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 4 
 http://supersonictv.live:8080/live/548104/479041/85565.ts
-#EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 5 
+#EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 4 
 http://megaott.live:8080/live/gJGhqFvycXv8/EgDTP3WPUz89/4917.ts
-#EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 6 
-https://vaathala00.github.io/stream/english/master.m3u8?begin=20140124T134500&end=20140124T144500
-#EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 7 
-https://vaathala00.github.io/stream/hindi/master.m3u8?begin=20140124T134500&end=20140124T144500
-#EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://w7.pngwing.com/pngs/498/730/png-transparent-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-text-thumbnail.png" group-title="Sports",Star Sports 1 ipl
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://w7.pngwing.com/pngs/498/730/png-transparent-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-text-thumbnail.png" group-title="Sports",SKYSports  ipl
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky1nz|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Willow Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Star Sports 3 ipl
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysme|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",STAR Sports 1 ipl hindi
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="KIDS",SONY YAY
-https://la.drmlive.au/tp/sliv-yay.m3u8
-#EXTINF:-1 group-title="KIDS",DISCOVERY KIDS
-http://defaultgen.com:3050/live/md1956189@hotmail.com/MKjBVwrYyR/659467.ts
-#EXTINF:-1 group-title="KIDS",NICK HD
-https://mix.drmlive.au/mix/jc-1227.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="KIDS",POGO
 http://defaultgen.com:3050/live/md1956189@hotmail.com/MKjBVwrYyR/659470.ts
 #EXTINF:-1 group-title="KIDS",CATOON NETWORK
 http://defaultgen.com:3050/live/md1956189@hotmail.com/MKjBVwrYyR/659457.ts
 #EXTINF:-1 group-title="KIDS",Disney
 http://defaultgen.com:3050/live/md1956189@hotmail.com/MKjBVwrYyR/659460.ts
+#EXTINF:-1 group-title="KIDS",DISCOVERY KIDS
+http://defaultgen.com:3050/live/md1956189@hotmail.com/MKjBVwrYyR/659467.ts
 #EXTINF:-1 group-title="Zee 5",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 group-title="Zee 5",$ Prive HD
@@ -331,15 +337,15 @@ https://v18tataplaysyndication.akamaized.net/bpk-tv/Colors_Cineplex_Bollywood_vo
 https://v18tataplaysyndication.akamaized.net/bpk-tv/MTV_HD_Plus_voot_MOB/output03/hdntl=exp=1744176505~acl=%2f*~data=hdntl~hmac=9699f609a15b461c557e3d4bbb36d2920ed690d4cf5b2e3eab9f987aabfaa054/MTV_HD_Plus_voot_MOB-audio_98835_eng=98800-video=2293600.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Jio Cinema",STAR SPORTS 2 HINDI
 https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1744176505~acl=%2f*~data=hdntl~hmac=9699f609a15b461c557e3d4bbb36d2920ed690d4cf5b2e3eab9f987aabfaa054/Sports18_1_HD_voot_MOB-audio_108038_eng=108000-video=2297600.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="TATA IPL 2025", M1
+#EXTINF:-1 group-title="TATA IPL 2025", IPL 1
 http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1698894&extension=ts&play_token=JIGd442bBM
-#EXTINF:-1 group-title="TATA IPL 2025", M2
+#EXTINF:-1 group-title="TATA IPL 2025", IPL 2
 http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1114582&extension=ts&play_token=1xHyfNtuPq
-#EXTINF:-1 group-title="TATA IPL 2025", M3 hotstar
-https://c2ag.short.gy/n/hin.m3u8
-#EXTINF:-1 group-title="TATA IPL 2025", M4 hotstar
-https://c2ag.short.gy/a/hin.m3u8
-#EXTINF:-1 group-title="TATA IPL 2025", M5
+#EXTINF:-1 group-title="TATA IPL 2025", IPL 3
+http://exprestv.win:80/play/live.php?mac=00:1A:79:6C:2F:7F&stream=1698894&extension=ts&play_token=pUJqyAh1Y6
+#EXTINF:-1 group-title="TATA IPL 2025", IPL 4
+http://exprestv.win:80/play/live.php?mac=00:1A:79:6C:2F:7F&stream=1114582&extension=ts&play_token=pUJqyAh1Y6
+#EXTINF:-1 group-title="TATA IPL 2025", IPL 5
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1114582&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="TATA IPL 2025", M6
+#EXTINF:-1 group-title="TATA IPL 2025", IPL 6
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1698894&extension=ts&play_token=pMEfLLjxPU

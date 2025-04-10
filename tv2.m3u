@@ -131,12 +131,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96234.ts
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/%26xplor_HD_logo.png" group-title="MOVIES",AND EXPLORE HD
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96344.ts
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://seeklogo.com/images/1/flix-hd-logo-D0B321DA6F-seeklogo.com.png" group-title="MOVIES",AND Flix HD
-http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96274.ts
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="MOVIES",Colors Cineplex
-http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96204.ts
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/channels_icon/69390864761.png" group-title="MOVIES",STAR GOLD 2 HD
-http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96343.ts
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/%26priv%C3%A9_HD.svg" group-title="MOVIES",Kadak
 http://23232.top:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=280798&extension=ts&play_token=4vnGqqpIRT
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",AND PICTURES HD
@@ -175,6 +169,12 @@ http://23232.top:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=282639&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=157158&extension=ts&play_token=4vnGqqpIRT
 #EXTINF:-1 group-title="MOVIES", DHINCHAK 2
 http://23232.top:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=157155&extension=ts&play_token=4vnGqqpIRT
+#EXTINF:-1 group-title="MOVIES", COLORS CINEPLEX HD
+http://23232.top:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=156003&extension=ts&play_token=4vnGqqpIRT
+#EXTINF:-1 group-title="MOVIES", AND FLIX HD
+http://23232.top:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=155990&extension=ts&play_token=4vnGqqpIRT
+#EXTINF:-1 group-title="MOVIES", STAR GOLD 2
+http://23232.top:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=1112132&extension=ts&play_token=4vnGqqpIRT
 #EXTINF:-1 group-title="MOVIES", TATA PLAY BOLLYWOOD
 http://23232.top:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=156028&extension=ts&play_token=4vnGqqpIRT
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/chimg/4314315925.png" group-title="Entertainment",ZEE TV HD

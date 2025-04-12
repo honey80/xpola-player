@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak NEWS
 https://feeds.intoday.in/aajtak/api/master.m3u8
-#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak 2
-http://supersonictv.live:8080/live/548104/479041/85565.ts
+#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak 2 IPL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:c4:cb:7f&stream=1698894&extension=ts&play_token=Ed4QXJTgeo
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak IPL
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak IPL 2

@@ -345,10 +345,10 @@ https://v18tataplaysyndication.akamaized.net/bpk-tv/StarSports_2_Hin_SD_voot_MOB
 http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1698894&extension=ts&play_token=JIGd442bBM
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 2
 http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1114582&extension=ts&play_token=1xHyfNtuPq
-#EXTINF:-1 group-title="TATA IPL 2025", IPL 3
-http://exprestv.win:80/play/live.php?mac=00:1A:79:6C:2F:7F&stream=1698894&extension=ts&play_token=pUJqyAh1Y6
-#EXTINF:-1 group-title="TATA IPL 2025", IPL 4
-http://exprestv.win:80/play/live.php?mac=00:1A:79:6C:2F:7F&stream=1114582&extension=ts&play_token=pUJqyAh1Y6
+#EXTINF:-1 group-title="TATA IPL 2025", IPL 3 Night
+https://c2ag.short.gy/n/hin.m3u8
+#EXTINF:-1 group-title="TATA IPL 2025", IPL 4 Day
+https://c2ag.short.gy/a/hin.m3u8
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 5
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1114582&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 6

@@ -4,7 +4,7 @@ https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak 2 IPL
 http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:c4:cb:7f&stream=1698894&extension=ts&play_token=Ed4QXJTgeo
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak IPL
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:c5:83:35&stream=441106&extension=ts&play_token=EKQQkKXHB6
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak IPL 2
 http://line.crystal-ott.com:80/4672883/WPTy2YndPA/2755
 #EXTINF:-1 tvg-id="TV9.in" tvg-logo="https://images.tv9hindi.com/wp-content/uploads/2021/01/Tv9-Bharatvarsh-19.png" group-title="News",TV 9 BHARATVARSH
@@ -121,14 +121,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 group-title="MOVIES",BOLLYWOOD CLASSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 group-title="MOVIES",MINIPLEX
-http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96234.ts
 #EXTINF:-1 group-title="MOVIES",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/%26xplor_HD_logo.png" group-title="MOVIES",AND EXPLORE HD
-http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96344.ts
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/%26priv%C3%A9_HD.svg" group-title="MOVIES",Kadak
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=280798&extension=ts&play_token=IMDEI2aITr
+#EXTINF:-1 group-title="MOVIES",MINIPLEX
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=156020&extension=ts&play_token=IMDEI2aITr
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/%26xplor_HD_logo.png" group-title="MOVIES",AND EXPLORE HD
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=209743&extension=ts&play_token=IMDEI2aITr
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",AND PICTURES HD
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=280744&extension=ts&play_token=IMDEI2aITr
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SONY HD
@@ -305,10 +305,10 @@ https://v18tataplaysyndication.akamaized.net/bpk-tv/StarSports_2_Hin_SD_voot_MOB
 http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1698894&extension=ts&play_token=JIGd442bBM
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 2
 http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1114582&extension=ts&play_token=1xHyfNtuPq
-#EXTINF:-1 group-title="TATA IPL 2025", IPL 3 Night
-https://c2ag.short.gy/n/hin.m3u8
-#EXTINF:-1 group-title="TATA IPL 2025", IPL 4 Day
-https://c2ag.short.gy/a/hin.m3u8
+#EXTINF:-1 group-title="TATA IPL 2025", IPL 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:c4:cb:7f&stream=1698894&extension=ts&play_token=nzlF8Rbx0J
+#EXTINF:-1 group-title="TATA IPL 2025", IPL 4
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:c4:cb:7f&stream=1114582&extension=ts&play_token=nzlF8Rbx0J
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 5
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1114582&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 6

@@ -123,6 +123,18 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=280798&extension=ts&play_token=hw0Qw67hzw
 #EXTINF:-1 group-title="MOVIES",MINIPLEX
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=156020&extension=ts&play_token=hw0Qw67hzw
+#EXTINF:-1 group-title="MOVIES",BFLIX
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=280803&extension=ts&play_token=hw0Qw67hzw
+#EXTINF:-1 group-title="MOVIES",B4U MOVIES
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=155987&extension=ts&play_token=hw0Qw67hzw
+#EXTINF:-1 group-title="MOVIES",COLORS CINEPLEX BOLLYWOOD
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=946375&extension=ts&play_token=hw0Qw67hzw
+#EXTINF:-1 group-title="MOVIES",STAR GOLD ROMANCE
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=156033&extension=ts&play_token=hw0Qw67hzw
+#EXTINF:-1 group-title="MOVIES",STARGOD THRILLS
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=1118072&extension=ts&play_token=hw0Qw67hzw
+#EXTINF:-1 group-title="MOVIES",MNX
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=156021&extension=ts&play_token=hw0Qw67hzw
 #EXTINF:-1 group-title="MUSIC",BALLE BALLE
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:7f:af:e9&stream=1097718&extension=ts&play_token=hw0Qw67hzw
 #EXTINF:-1 group-title="Entertainment",ZEE CAFE HD

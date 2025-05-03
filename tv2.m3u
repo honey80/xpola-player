@@ -132,13 +132,9 @@ http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=280798&ex
 #EXTINF:-1 group-title="MOVIES",MINIPLEX
 http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=156020&extension=ts&play_token=uVB3RcLc5n
 #EXTINF:-1 group-title=" World News",FOX News
-http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=45575&extension=ts&play_token=uVB3RcLc5n
+https://c2ag.short.gy/a/hin.m3u8
 #EXTINF:-1 group-title=" World News",CNN News
-http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=442785&extension=ts&play_token=uVB3RcLc5n
-#EXTINF:-1 group-title=" World News",BBC WORLD
-http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=91766&extension=ts&play_token=uVB3RcLc5n
-#EXTINF:-1 group-title=" World News",YAHOO FINANCE 
-http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1795752&extension=ts&play_token=uVB3RcLc5n
+https://c2ag.short.gy/n/hin.m3u8
 #EXTINF:-1 group-title="MOVIES",BFLIX
 http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=280803&extension=ts&play_token=uVB3RcLc5n
 #EXTINF:-1 group-title="MOVIES",B4U MOVIES

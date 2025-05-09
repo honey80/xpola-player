@@ -339,9 +339,3 @@ http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1698894&
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:C1:4E:38&stream=1104676&extension=ts&play_token=DRWFsD3y4c
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 8
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:C1:4E:38&stream=1104672&extension=ts&play_token=YIA5yjABfy
-#EXTINF:-1 group-title="2025 MOVIES", Good Bad Ugly
-https://pub-be7106ddd53447d2a6a10b0f4df6c9ff.r2.dev/Good.Bad.Ugly.2025.1080p.WEB-DL.Hindi.2.0-Tamil.2.0.HC-ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="2025 MOVIES", Aghathiyaa
-https://pub-ae8c404ccb8a44d0a3919bf2dc52343b.r2.dev/Aghathiyaa.2025.1080p.WEB-DL.Hindi.5.1-Tamil.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="2025 MOVIES", L.I.F.E. 
-https://pub-03fadec45ae94286a214c96f312b7e0d.r2.dev/Spark.LIFE.2023.UNCUT.1080p.10Bit.WEB-DL.Hindi.5.1-Telugu.5.1.HEVC.x265-HDHub4u.Ms.mkv

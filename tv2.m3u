@@ -9,20 +9,16 @@ http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:c5:83:35&stream=441106&exte
 http://v3tv.live:80/play/live.php?mac=00:1A:79:56:86:55&stream=276731&extension=ts&play_token=gwNOiA5HZD
 #EXTINF:-1 tvg-id="TV9.in" tvg-logo="https://images.tv9hindi.com/wp-content/uploads/2021/01/Tv9-Bharatvarsh-19.png" group-title="News",TV 9 BHARATVARSH
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsX.in" tvg-logo="https://karthavya.com/wp-content/uploads/2019/06/newsx-logo.jpg" group-title="News",NEWS X
-https://indianews.ottlive.co.in/newsx/newsx/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="DDNEWS.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png" group-title="News",DD NEWS
-https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
-#EXTINF:-1 tvg-id="SAMACHAR.in" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vertent-samachar-plus-24x7-in.png" group-title="News",SAMACHAR PLUS
-https://samacharplus.livebox.co.in/samacharplushls/live.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="News",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="ZeeHindustan.in" tvg-logo="https://i.imgur.com/3eAZMxA.png" group-title="News",Zee Hindustan
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="ZeeRajasthan.in" tvg-logo="https://i.imgur.com/iYrrGlL.png" group-title="News",Zee Rajasthan
-http://tv.cloudcdn.me:80/live.ts?channelId=78812&uid=14507&deviceMac=00:1A:79:0B:3E:D1
-#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/iYrrGlL.png" group-title="News",WION
+https://d2jso9g61rg1h8.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/iYrrGlL.png" group-title="English News",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="English News",Firstpost
+https://nw18live.cdn.jio.com/bpk-tv/Firstpost_NW18_MOB/output01/Firstpost_NW18_MOB/video.m3u8
 #EXTINF:-1 tvg-id="News18_Rajasthan.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="News",News18_Rajasthan
 https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8?__hdnea__=st=1727629517~exp=1727715917~acl=/*~hmac=29aed246c6970c2554686f287756601dd741ec0369d98a23aa5d7c03d3549bde
 #EXTINF:-1 tvg-id="News18_Rajasthan.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Republic_Bharat_Logo.jpg" group-title="News",REPUBLIC BHARAT
@@ -31,17 +27,17 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republicbharat-samsungindi
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtvindia-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="News",NDTV 24X7
+#EXTINF:-1 group-title="English News",NDTV 24X7
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtv24x7-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="News",NDTV khabar
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1 group-title="News",NAVBHARAT TIMES HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="News",TIMES  NOW HD
+#EXTINF:-1 group-title="English News",TIMES  NOW HD
 https://d1irnksb81zh0b.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="News",MIRROR  NOW HD
+#EXTINF:-1 group-title="English News",MIRROR  NOW HD
 https://d179muqh6u5263.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="News",Republic TV
+#EXTINF:-1 group-title="English News",Republic TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republictv-samsungindia/playlist.m3u8
 #EXTINF:-1 group-title="News",TEZ News
 https://feeds.intoday.in/aajtak/api/tez/master.m3u8
@@ -55,15 +51,15 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Newsnation/default/index.m3u8
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 group-title="News",ET NOW SWADESH
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="News",ET NOW 
+#EXTINF:-1 group-title="English News",ET NOW 
 https://damso2e2yhynu.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="News",IBC24 NEWS
 https://livetv.ibc24.in/livestream.m3u8
-#EXTINF:-1 group-title="News",INDIA TODAY
+#EXTINF:-1 group-title="English News",INDIA TODAY
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 group-title="News",NDTV RAJASTHAN
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
-#EXTINF:-1 group-title="News",NDTV PROFIT
+#EXTINF:-1 group-title="English News",NDTV PROFIT
 https://dai.google.com/linear/hls/event/QuU6z3GSTDaXuLL9Hs5A5Q/master.m3u8
 #EXTINF:-1 group-title="News",BHARAT SAMACHAR
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
@@ -73,8 +69,10 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/master.m3u8
 #EXTINF:-1 group-title="News",CNBC AWAAZ
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8?__hdnea__=st=1727629200~exp=1727715600~acl=/*~hmac=a12aa4bd6e3a9e7c4fb3fd029659cb13602aa4eadc811f6b2296c83893f2e125
-#EXTINF:-1 group-title="News",CNBC TV 18
+#EXTINF:-1 group-title="English News",CNBC TV 18
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8?__hdnea__=st=1727629140~exp=1727715540~acl=/*~hmac=6fea49f471fe77a8920dc87ca2c04ab94de34670f997a5909931cdda89e7f236
+#EXTINF:-1 group-title="English News",CNN 
+https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB/video.m3u8
 #EXTINF:-1 group-title=" World News",Aljazeera News
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title=" World News",Bloomberg News

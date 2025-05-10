@@ -15,7 +15,7 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="ZeeRajasthan.in" tvg-logo="https://i.imgur.com/iYrrGlL.png" group-title="News",Zee Rajasthan
 https://d2jso9g61rg1h8.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/iYrrGlL.png" group-title="English News",WION
+#EXTINF:-1 group-title="English News",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="English News",Firstpost
 https://nw18live.cdn.jio.com/bpk-tv/Firstpost_NW18_MOB/output01/Firstpost_NW18_MOB/video.m3u8

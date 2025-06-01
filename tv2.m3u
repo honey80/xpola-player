@@ -239,6 +239,46 @@ http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=155999&ex
 http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=156012&extension=ts&play_token=GGQJBH749Q
 #EXTINF:-1 group-title="Entertainment",ANIMAL PLANET
 http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=156168&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 1
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=636175&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 2
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=636176&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 3
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=636180&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 4
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=636181&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 5
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=636182&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 6
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1024827&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 7
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019880&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 8
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019881&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 9
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019882&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 10
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019883&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 11
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019884&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 12
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019885&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 13
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019889&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 14
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019886&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 15
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019887&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",PUNJABI 1
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019900&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",PUNJABI 2
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019901&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",PUNJABI 3
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019902&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",PUNJABI 4
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019903&extension=ts&play_token=GGQJBH749Q
+#EXTINF:-1 group-title="24/7 MOVIES ",PUNJABI 5
+http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019904&extension=ts&play_token=GGQJBH749Q
 #EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/irjv0u1574451153.png" group-title="Sports",Star Sports 1 Premium
 http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1114582&extension=ts&play_token=GGQJBH749Q
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",BBO HD

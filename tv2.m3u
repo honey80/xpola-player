@@ -2,11 +2,7 @@
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak NEWS
 https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak 2 IPL
-http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:c4:cb:7f&stream=1698894&extension=ts&play_token=Ed4QXJTgeo
-#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak IPL
-http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:c5:83:35&stream=441106&extension=ts&play_token=EKQQkKXHB6
-#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak IPL 2
-http://v3tv.live:80/play/live.php?mac=00:1A:79:56:86:55&stream=276731&extension=ts&play_token=gwNOiA5HZD
+https://feeds.intoday.in/aajtak/api/at2/master.m3u8
 #EXTINF:-1 tvg-id="TV9.in" tvg-logo="https://images.tv9hindi.com/wp-content/uploads/2021/01/Tv9-Bharatvarsh-19.png" group-title="News",TV 9 BHARATVARSH
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="News",Zee News
@@ -106,15 +102,13 @@ https://shorturl.at/UfiT0
 #EXTINF:-1 group-title="MUSIC",PITARA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",SAGA MUSIC
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/c4b35109-98e4-451c-a518-c48450cc1c84/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/f9ee8a73-f84c-48bf-83d5-24da5e715121/0.m3u8
 #EXTINF:-1 group-title="MUSIC",TABAAR HITS
-https://c2ag.short.gy/vt_tp?id=0|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/|license_type=clearkey&license_key=https://tp.drmlive-01.workers.dev?id=0&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MUSIC",HARYANA BEATS
-https://allinonereborn.com/test.m3u8/ts.php?ts=https://allinonereborn.com/test.m3u8?id=98993
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/63a4d005-e44d-48a2-ad50-e5f9caed9787/0.m3u8
 #EXTINF:-1 group-title="MUSIC",PUNJABI HITS
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/0beba475-c866-406b-b1fd-b4241485554a/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/f9ee8a73-f84c-48bf-83d5-24da5e715121/0.m3u8
 #EXTINF:-1 group-title="MUSIC",YRF MUSIC
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/f4527298-f5f7-4b9e-989e-b2c53a33dce9/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/f9ee8a73-f84c-48bf-83d5-24da5e715121/0.m3u8
 #EXTINF:-1 group-title="MUSIC",SHEMAROO
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
 #EXTINF:-1 group-title="MOVIES",SHEMARO BOLLYWOOD 

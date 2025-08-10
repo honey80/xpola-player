@@ -104,13 +104,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 group-title="MUSIC",PITARA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",SAGA MUSIC
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/b88922b9-8b22-4781-93e6-f2a668def557/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/master.m3u8
 #EXTINF:-1 group-title="MUSIC",TABAAR HITS
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/63a4d005-e44d-48a2-ad50-e5f9caed9787/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8
 #EXTINF:-1 group-title="MUSIC",PUNJABI HITS
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/1fb32cb9-6b45-4911-9b1c-57c2c125cb36/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
 #EXTINF:-1 group-title="MUSIC",YRF MUSIC
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/f1854976-4e20-46ac-9f6f-456b83b63ef6/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
 #EXTINF:-1 group-title="MUSIC",SHEMAROO
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
 #EXTINF:-1 group-title="MOVIES",SHEMARO BOLLYWOOD 
@@ -407,3 +407,4 @@ https://ze5.vodep39240327.workers.dev/channel/Zee%20Caf%C3%A9%20HD.m3u8
 https://ze5.vodep39240327.workers.dev/channel/Zee%20Anmol.m3u8
 #EXTINF:-1 group-title="Zee 5",Zee tv
 https://ze5.vodep39240327.workers.dev/channel/Zee%20TV.m3u8
+

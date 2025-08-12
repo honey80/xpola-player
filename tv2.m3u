@@ -374,38 +374,39 @@ http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:C1:4E:38&stream=1104676&
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 8
 https://play.denver1769.fun/J/Jtv.mpd?id=1984|User-Agent=Denver1769|license_type=clearkey&license_key=https://play.denver1769.fun/J/Jtv.php?id=1984&key&user-agent=Denver1769
 #EXTINF:-1 group-title="Zee 5",$ Prive HD
-https://ze5.vodep39240327.workers.dev/channel/%26Prive%20HD.m3u8
+https://ze5.vodep39240327.workers.dev/channel/&Prive%20HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",Zee Anmol Cinema 2
-https://ze5.vodep39240327.workers.dev/channel/h_987%2Cc_scale%2Cf_webp%2Cq_auto%3Aeco%2Fresources%2F0-9-bigganga%2Flist_clean%2F1170x658b1a857ea78b747b4a6256dd13b3828fd.png%22%2CZee%20Anmol%20Cinema%202.m3u8
+https://ze5.vodep39240327.workers.dev/channel/Zee%20Anmol%20Cinema%202.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",Zee Cinema HD
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Cinema%20HD.m3u8
+https://ze5.vodep39240327.workers.dev/channel/Zee%20Cinema%20HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",$ Pictures HD
-https://ze5.vodep39240327.workers.dev/channel/%26Pictures%20HD.m3u8
+https://ze5.vodep39240327.workers.dev/channel/&Pictures%20HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",Zee Anmol Cinema
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Anmol%20Cinema.m3u8
+https://ze5.vodep39240327.workers.dev/channel/Zee%20Anmol%20Cinema.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",Zee Bollywood
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Bollywood.m3u8
+https://ze5.vodep39240327.workers.dev/channel/Zee%20Bollywood.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",& Pictures
-https://ze5.vodep39240327.workers.dev/channel/%26Pictures.m3u8
+https://ze5.vodep39240327.workers.dev/channel/&Pictures.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",Zee Cinema
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Cinema.m3u8
+https://ze5.vodep39240327.workers.dev/channel/Zee%20Cinema.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",Zee Action
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Action.m3u8
+https://ze5.vodep39240327.workers.dev/channel/Zee%20Action.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",$ Flix
-https://ze5.vodep39240327.workers.dev/channel/%26flix%20HD.m3u8
+https://ze5.vodep39240327.workers.dev/channel/&flix%20HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",Zee Classic
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Classic.m3u8
+https://ze5.vodep39240327.workers.dev/channel/Zee%20Classic.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",$ Xplor
-https://ze5.vodep39240327.workers.dev/channel/%26xplorHD.m3u8
+https://ze5.vodep39240327.workers.dev/channel/&xplorHD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",Zee tv HD
-https://ze5.vodep39240327.workers.dev/channel/Zee%20TV%20HD.m3u8
+https://la.drmlive.net/tp/zee-zeetvhd.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",& Tv
-https://ze5.vodep39240327.workers.dev/channel/%26TV%20HD.m3u8
+https://la.drmlive.net/tp/zee-tvhd_0.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",Zee Cafe
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Caf%C3%A9%20HD.m3u8
+https://la.drmlive.net/tp/zee-zeecafehd.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",Zee Anmol
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Anmol.m3u8
+https://la.drmlive.net/tp/zee-zeeanmol.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",Zee tv
-https://ze5.vodep39240327.workers.dev/channel/Zee%20TV.m3u8
+https://la.drmlive.net/tp/zee-zeetv.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
 
 

@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak NEWS
-https://feeds.intoday.in/aajtak/api/master.m3u8
-#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak 2 IPL
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak 2
 https://feeds.intoday.in/aajtak/api/at2/master.m3u8
 #EXTINF:-1 tvg-id="TV9.in" tvg-logo="https://images.tv9hindi.com/wp-content/uploads/2021/01/Tv9-Bharatvarsh-19.png" group-title="News",TV 9 BHARATVARSH
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
@@ -73,6 +73,12 @@ https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title=" World News",Bloomberg News
 https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 group-title=" World News",CNBC
+http://line.chumala.com:80/play/live.php?mac=00:1A:79:00:25:EF&stream=45593&extension=ts&play_token=xkiYafLaKY
+#EXTINF:-1 group-title=" World News",CNN
+http://line.chumala.com:80/play/live.php?mac=00:1A:79:00:25:EF&stream=442785&extension=ts&play_token=NWU3kr7hRR
+#EXTINF:-1 group-title=" World News",CNBC WORLD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:c4:cb:7f&stream=91782&extension=ts&play_token=sPeF9iJgCd
 #EXTINF:-1 group-title=" World News",Abc News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title=" World News",SKY News
@@ -407,6 +413,7 @@ https://la.drmlive.net/tp/zee-zeecafehd.m3u8|user-agent=Mozilla/5.0 (Windows NT 
 https://la.drmlive.net/tp/zee-zeeanmol.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",Zee tv
 https://la.drmlive.net/tp/zee-zeetv.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
 
 
 

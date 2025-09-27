@@ -287,20 +287,6 @@ http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1114582&e
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/100804.ts
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/ba/Colors_TV.svg.png" group-title="Entertainment",And tv
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96198.ts
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/irjv0u1574451153.png" group-title="Sports",Star Sports 1 LUX
-http://defaultgen.com:3050/live/md1956189@hotmail.com/MKjBVwrYyR/659507.ts
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/irjv0u1574451153.png" group-title="Sports",Star Sports 1 Airtel
-http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/93725.ts
-#EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 1 
-http://yesimes.oknirvana.club:8880/duliz0905a/2c5d9056/2879
-#EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 2 
-http://yesimes.oknirvana.club:8880/duliz0905a/2c5d9056/71109
-#EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 3 
-http://supersonictv.live:8080/live/548104/479041/85565.ts
-#EXTINF:-1 tvg-id="DD Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",Ipl 4 
-http://megaott.live:8080/live/gJGhqFvycXv8/EgDTP3WPUz89/4917.ts
-#EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports",STAR Sports 1 ipl hindi
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="KIDS",POGO
 http://defaultgen.com:3050/live/md1956189@hotmail.com/MKjBVwrYyR/659470.ts
 #EXTINF:-1 group-title="KIDS",CATOON NETWORK
@@ -341,28 +327,6 @@ https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Ten 5
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF:-1 group-title="Jio Cinema",Nick Hd
-https://v18tataplaysyndication.akamaized.net/bpk-tv/Nick_voot_MOB/output03/hdntl=exp=1745423680~acl=%2f*~data=hdntl~hmac=5538f08987f270f61c61fa37ff55b7bab321f9eb4f74d3b7f1ca5ee8feabbe8a/Nick_voot_MOB/video.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Jio Cinema",Colors HD
-https://v18tataplaysyndication.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output03/hdntl=exp=1745423680~acl=%2f*~data=hdntl~hmac=5538f08987f270f61c61fa37ff55b7bab321f9eb4f74d3b7f1ca5ee8feabbe8a/Colors_HD_voot_MOB/video.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Jio Cinema",Colors SD
-https://v18tataplaysyndication.akamaized.net/bpk-tv/Colors_voot_MOB/output03/hdntl=exp=1745423680~acl=%2f*~data=hdntl~hmac=5538f08987f270f61c61fa37ff55b7bab321f9eb4f74d3b7f1ca5ee8feabbe8a/Colors_voot_MOB/video.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Jio Cinema",Rishtey
-https://v18tataplaysyndication.akamaized.net/bpk-tv/Colors_Rishtey_voot_MOB/output03/hdntl=exp=1745423680~acl=%2f*~data=hdntl~hmac=5538f08987f270f61c61fa37ff55b7bab321f9eb4f74d3b7f1ca5ee8feabbe8a/Colors_Rishtey_voot_MOB/video.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Jio Cinema",Colors infinity
-https://v18tataplaysyndication.akamaized.net/bpk-tv/Colors_Infinity_HD_voot_MOB/output03/hdntl=exp=1745423680~acl=%2f*~data=hdntl~hmac=5538f08987f270f61c61fa37ff55b7bab321f9eb4f74d3b7f1ca5ee8feabbe8a/Colors_Infinity_HD_voot_MOB/video.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Jio Cinema",Colors Cineplex HD
-https://v18tataplaysyndication.akamaized.net/bpk-tv/Colors_Cineplex_voot_MOB/output03/hdntl=exp=1745423680~acl=%2f*~data=hdntl~hmac=5538f08987f270f61c61fa37ff55b7bab321f9eb4f74d3b7f1ca5ee8feabbe8a/Colors_Cineplex_voot_MOB/video.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Jio Cinema",Colors Cineplex
-https://v18tataplaysyndication.akamaized.net/bpk-tv/Colors_Cineplex_SD_voot_MOB/output03/hdntl=exp=1745423680~acl=%2f*~data=hdntl~hmac=5538f08987f270f61c61fa37ff55b7bab321f9eb4f74d3b7f1ca5ee8feabbe8a/Colors_Cineplex_SD_voot_MOB/video.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Jio Cinema",Cineplex Bollywood
-https://v18tataplaysyndication.akamaized.net/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/output03/hdntl=exp=1745423680~acl=%2f*~data=hdntl~hmac=5538f08987f270f61c61fa37ff55b7bab321f9eb4f74d3b7f1ca5ee8feabbe8a/Colors_Cineplex_Bollywood_voot_MOB/video.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Jio Cinema",MTV HD
-https://v18tataplaysyndication.akamaized.net/bpk-tv/MTV_HD_Plus_voot_MOB/output03/hdntl=exp=1745423680~acl=%2f*~data=hdntl~hmac=5538f08987f270f61c61fa37ff55b7bab321f9eb4f74d3b7f1ca5ee8feabbe8a/MTV_HD_Plus_voot_MOB/video.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Jio Cinema",MTV
-https://v18tataplaysyndication.akamaized.net/bpk-tv/MTV_voot_MOB/output03/hdntl=exp=1745423680~acl=%2f*~data=hdntl~hmac=5538f08987f270f61c61fa37ff55b7bab321f9eb4f74d3b7f1ca5ee8feabbe8a/MTV_voot_MOB/video.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Jio Cinema",STAR SPORTS 2 HINDI HD
-https://v18tataplaysyndication.akamaized.net/bpk-tv/StarSports_2_Hin_HD_voot_MOB/output03/hdntl=exp=1745423680~acl=%2f*~data=hdntl~hmac=5538f08987f270f61c61fa37ff55b7bab321f9eb4f74d3b7f1ca5ee8feabbe8a/StarSports_2_Hin_HD_voot_MOB/video.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 1
 http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1698894&extension=ts&play_token=JIGd442bBM
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 2
@@ -377,8 +341,6 @@ http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1114582&
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1698894&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 7
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:C1:4E:38&stream=1104676&extension=ts&play_token=DRWFsD3y4c
-#EXTINF:-1 group-title="TATA IPL 2025", IPL 8
-https://play.denver1769.fun/J/Jtv.mpd?id=1984|User-Agent=Denver1769|license_type=clearkey&license_key=https://play.denver1769.fun/J/Jtv.php?id=1984&key&user-agent=Denver1769
 #EXTINF:-1 group-title="Zee 5",$ Prive HD
 https://ze5.vodep39240327.workers.dev/channel/&Prive%20HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",Zee Anmol Cinema 2
@@ -413,6 +375,7 @@ https://la.drmlive.net/tp/zee-zeecafehd.m3u8|user-agent=Mozilla/5.0 (Windows NT 
 https://la.drmlive.net/tp/zee-zeeanmol.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",Zee tv
 https://la.drmlive.net/tp/zee-zeetv.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
 
 
 

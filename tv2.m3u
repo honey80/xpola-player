@@ -216,9 +216,9 @@ http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:17:1F:59&stream=156173&e
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png" group-title="Entertainment",Colors
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:17:1F:59&stream=156172&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://w7.pngwing.com/pngs/498/730/png-transparent-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-text-thumbnail.png" group-title="Sports",Sky Sports HD
-http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1104668&extension=ts&play_token=pMEfLLjxPU
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:17:1F:59&stream=83454&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 tvg-id="SKYSports.in" tvg-logo="https://w7.pngwing.com/pngs/498/730/png-transparent-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-text-thumbnail.png" group-title="Sports",SUPER Sports  HD
-http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1104669&extension=ts&play_token=pMEfLLjxPU
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:17:1F:59&stream=239087&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 tvg-id="Willow Sports1.in" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports", WILLOW 
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1142110&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="Sports", FOX CRICKET
@@ -281,14 +281,14 @@ http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019902&
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019903&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="24/7 MOVIES ",PUNJABI 5
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1019904&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/irjv0u1574451153.png" group-title="Sports",Star Sports 1 Premium
+#EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/irjv0u1574451153.png" group-title="Sports",Star Sports 1 Hindi
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1114582&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="Sports", SONY TEN 3
-http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:c4:cb:7f&stream=282672&extension=ts&play_token=iCQcHK6DZ8
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:17:1F:59&stream=282672&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="Sports", SONY TEN 2
-http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:c4:cb:7f&stream=282671&extension=ts&play_token=iCQcHK6DZ8
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:17:1F:59&stream=282671&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="Sports", SONY TEN 1
-http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:c4:cb:7f&stream=282670&extension=ts&play_token=iCQcHK6DZ8
+http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:17:1F:59&stream=282670&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="Sports", DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",BBO HD
@@ -383,6 +383,7 @@ https://la.drmlive.net/tp/zee-zeecafehd.m3u8|user-agent=Mozilla/5.0 (Windows NT 
 https://la.drmlive.net/tp/zee-zeeanmol.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Zee 5",Zee tv
 https://la.drmlive.net/tp/zee-zeetv.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
 
 
 

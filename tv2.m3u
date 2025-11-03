@@ -306,37 +306,37 @@ http://defaultgen.com:3050/live/md1956189@hotmail.com/MKjBVwrYyR/659460.ts
 #EXTINF:-1 group-title="KIDS",DISCOVERY KIDS
 https://jiotvplus-07.vercel.app/api/js.mpd?id=1373|User-Agent="plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69"&Origin="https://www.jiotv.com"&Referer="https://www.jiotv.com/"|license_type=clearkey&license_key=https://clkey.vercel.app/api/results.php?keyid=5181d3e6698055578cedc5bfc86b3e56&key=3dca7917d8cf9bb7095dc72b48bdcd3c
 #EXTINF:-1 group-title="Sony Liv",Sony
-https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY HD.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Sab
-https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SAB HD.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Pal
-https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY PAL.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Yay
-https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY YAY.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony BBC Earth
-https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY MAX.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Max
-https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY MAX.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Max HD
-https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY MAX HD.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Max 2
-https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY MAX2.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Pix
-https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY PIX HD.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony WaH
-https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY WAH.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Ten 1
-https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 1 HD.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Ten 2
-https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 2 HD.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Ten 3
-https://dai.google.com/ssai/event/RP1mckhwQQChze2hZfnZlA/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 3 HD.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Ten 4
-https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 4 HD.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Ten 5
-https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 5 HD.m3u8
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 1
 http://watch.x-iptv.live:80/play/live.php?mac=00:1A:79:17:1F:59&stream=1698894&extension=ts&play_token=JIGd442bBM
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 2
@@ -383,6 +383,7 @@ https://ze5.vodep39240327.workers.dev/channel/Zee%20Caf%C3%A9%20HD.m3u8
 https://ze5.vodep39240327.workers.dev/channel/Zee%20Anmol.m3u8
 #EXTINF:-1 group-title="Zee 5",Zee tv
 https://ze5.vodep39240327.workers.dev/channel/Zee%20TV%20HD.m3u8
+
 
 
 

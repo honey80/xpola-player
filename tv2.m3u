@@ -342,9 +342,9 @@ http://exceltion.xyz:80/play/live.php?mac=00:1A:79:74:a9:3e&stream=1114582&exten
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 2
 http://exceltion.xyz:80/play/live.php?mac=00:1A:79:74:a9:3e&stream=1698894&extension=ts&play_token=fuiMkuQ5Q1
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 3
-http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:c4:cb:7f&stream=1698894&extension=ts&play_token=nzlF8Rbx0J
+http://line.chumala.com:80/play/live.php?mac=00:1A:79:00:25:EF&stream=1104676&extension=ts&play_token=52EwD0ae9Q
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 4
-http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:c4:cb:7f&stream=1114582&extension=ts&play_token=nzlF8Rbx0J
+http://line.chumala.com:80/play/live.php?mac=00:1A:79:00:25:EF&stream=1698894&extension=ts&play_token=52EwD0ae9Q
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 5
 http://proxy.watchtv.best:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1114582&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 6
@@ -383,6 +383,7 @@ https://ze5.vodep39240327.workers.dev/channel/Zee%20Caf%C3%A9%20HD.m3u8
 https://ze5.vodep39240327.workers.dev/channel/Zee%20Anmol.m3u8
 #EXTINF:-1 group-title="Zee 5",Zee tv
 https://ze5.vodep39240327.workers.dev/channel/Zee%20TV%20HD.m3u8
+
 
 
 

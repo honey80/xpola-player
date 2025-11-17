@@ -103,8 +103,8 @@ https://shorturl.at/j4X4c
 https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",SAREGA HARYANVI
 https://shorturl.at/UfiT0
-#EXTINF:-1 group-title="MUSIC",M HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8
+#EXTINF:-1 group-title="MUSIC",HITS HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 group-title="MUSIC",PITARA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",SAGA MUSIC
@@ -383,6 +383,7 @@ https://ze5.vodep39240327.workers.dev/channel/Zee%20Caf%C3%A9%20HD.m3u8
 https://ze5.vodep39240327.workers.dev/channel/Zee%20Anmol.m3u8
 #EXTINF:-1 group-title="Zee 5",Zee tv
 https://ze5.vodep39240327.workers.dev/channel/Zee%20TV%20HD.m3u8
+
 
 
 

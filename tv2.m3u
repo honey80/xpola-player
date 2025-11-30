@@ -199,8 +199,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=280749&ex
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=155990&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="MOVIES", STAR GOLD 2
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1112132&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="MOVIES", TATA PLAY BOLLYWOOD
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156028&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/chimg/4314315925.png" group-title="Entertainment",ZEE TV HD
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=155974&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://img-cdn.curl.pk/chimg/8601046166.png" group-title="MOVIES",ZEE Classic
@@ -215,14 +213,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=155971&ex
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156173&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png" group-title="Entertainment",Colors
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156172&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="KIDS",SONY YAY
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1104678&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="KIDS",DISNEY 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=811469&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="KIDS",DISNEY 3
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1158195&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="KIDS",DISNEY 4
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156000&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="Entertainment",NAT GEO WILD
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=155989&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="Entertainment",DISCOVERY WORLD
@@ -231,46 +221,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=155999&ex
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156012&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="Entertainment",ANIMAL PLANET
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156168&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=636175&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=636176&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 3
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=636180&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 4
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=636181&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 5
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=636182&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 6
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1024827&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 7
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1019880&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 8
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1019881&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 9
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1019882&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 10
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1019883&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 11
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1019884&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 12
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1019885&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 13
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1019889&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 14
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1019886&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",BOLLYWOOD 15
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1019887&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",PUNJABI 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1019900&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",PUNJABI 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1019901&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",PUNJABI 3
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1019902&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",PUNJABI 4
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1019903&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="24/7 MOVIES ",PUNJABI 5
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1019904&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_high.jpg" group-title="Sports",Star Sports 1 Hindi
 http://m3u7.scandictv.com:80/play/live.php?mac=00:1A:79:bf:e4:17&stream=1114582&extension=ts&play_token=5t6pBb4bwa
 #EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_high.jpg" group-title="Sports", STAR SPORTS 2 HINDI
@@ -283,18 +233,8 @@ http://m3u7.scandictv.com:80/play/live.php?mac=00:1A:79:bf:e4:17&stream=156010&e
 http://m3u7.scandictv.com:80/play/live.php?mac=00:1A:79:bf:e4:17&stream=156017&extension=ts&play_token=JK2TZUMUhZ
 #EXTINF:-1 group-title="Sports", DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES",BBO HD
-http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/100804.ts
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/ba/Colors_TV.svg.png" group-title="Entertainment",And tv
 http://sansat.cc:88/live/9dG7vkMu8NFLc0t/Sp1g5yu4L7XRDGN&output=ts/96198.ts
-#EXTINF:-1 group-title="KIDS",POGO
-http://defaultgen.com:3050/live/md1956189@hotmail.com/MKjBVwrYyR/659470.ts
-#EXTINF:-1 group-title="KIDS",CATOON NETWORK
-http://defaultgen.com:3050/live/md1956189@hotmail.com/MKjBVwrYyR/659457.ts
-#EXTINF:-1 group-title="KIDS",Disney
-http://defaultgen.com:3050/live/md1956189@hotmail.com/MKjBVwrYyR/659460.ts
-#EXTINF:-1 group-title="KIDS",DISCOVERY KIDS
-https://jiotvplus-07.vercel.app/api/js.mpd?id=1373|User-Agent="plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69"&Origin="https://www.jiotv.com"&Referer="https://www.jiotv.com/"|license_type=clearkey&license_key=https://clkey.vercel.app/api/results.php?keyid=5181d3e6698055578cedc5bfc86b3e56&key=3dca7917d8cf9bb7095dc72b48bdcd3c
 #EXTINF:-1 group-title="Sony Liv",Sony
 https://sl.vodep39240327.workers.dev/channel/SONY HD.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Sab
@@ -341,323 +281,16 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1114582&e
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1698894&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 7
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:C1:4E:38&stream=1104676&extension=ts&play_token=DRWFsD3y4c
-#EXTINF:-1 group-title="Zee 5",$ Prive HD
-https://ze5.vodep39240327.workers.dev/channel/%26Prive%20HD.m3u8
-#EXTINF:-1 group-title="Zee 5",Zee Anmol Cinema 2
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Anmol%20Cinema%202.m3u8
-#EXTINF:-1 group-title="Zee 5",Zee Cinema HD
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Cinema%20HD.m3u8
-#EXTINF:-1 group-title="Zee 5",$ Pictures HD
-https://ze5.vodep39240327.workers.dev/channel/&Pictures%20HD.m3u
-#EXTINF:-1 group-title="Zee 5",Zee Anmol Cinema
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Anmol%20Cinem
-#EXTINF:-1 group-title="Zee 5",Zee Bollywood
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Bollywood.m3u8
-#EXTINF:-1 group-title="Zee 5",& Pictures
-https://ze5.vodep39240327.workers.dev/channel/%26Pictures.m3u8
-#EXTINF:-1 group-title="Zee 5",Zee Cinema
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Cinema%20HD.m3u8
-#EXTINF:-1 group-title="Zee 5",Zee Action
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Action.m3u8
-#EXTINF:-1 group-title="Zee 5",$ Flix
-https://ze5.vodep39240327.workers.dev/channel/&flix%20HD.m3u
-#EXTINF:-1 group-title="Zee 5",Zee Classic
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Classic.m3u8
-#EXTINF:-1 group-title="Zee 5", & Xplor
-https://ze5.vodep39240327.workers.dev/channel/%26xplorHD.m3u8
-#EXTINF:-1 group-title="Zee 5",& Tv
-https://ze5.vodep39240327.workers.dev/channel/&TV%20HD.m3u8
-#EXTINF:-1 group-title="Zee 5",Zee Cafe
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Caf%C3%A9%20HD.m3u8
-#EXTINF:-1 group-title="Zee 5",Zee Anmol
-https://ze5.vodep39240327.workers.dev/channel/Zee%20Anmol.m3u8
-#EXTINF:-1 group-title="Zee 5",Zee tv
-https://ze5.vodep39240327.workers.dev/channel/Zee%20TV%20HD.m3u8
+
+#EXTINF:-1 tvg-id="1373" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1764500837~exp=1764587237~acl=/*~hmac=f76e2084913c78cccc33a3dab954889f7e08b033bb0e5a2862ba672248605ec8"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1764500837~exp=1764587237~acl=/*~hmac=f76e2084913c78cccc33a3dab954889f7e08b033bb0e5a2862ba672248605ec8&xxx=%7Ccookie=__hdnea__=st=1764500837~exp=1764587237~acl=/*~hmac=f76e2084913c78cccc33a3dab954889f7e08b033bb0e5a2862ba672248605ec8
 
 
 
-[
-  {
-    "logo": "https://img.media.jio.com/tvpimages/66/40/302084_1753189751700_l_high.jpg",
-    "name": "Star Plus",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Plus_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "3bba2ffaf08b501796c5d9eb431460a4:7a62074c4c46f3b153259526481c02bf",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/79/39/301998_1753187048300_l_high.jpg",
-    "name": "Star Plus HD",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/49/44/302082_1753203942225_l_high.jpg",
-    "name": "Star Bharat",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Bharat_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "687cfa6d31645a91ba3c38a9acdfac7c:c035ca584ac0a2170b96e2fa4523f3be",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/60/42/302087_1753199815856_l_high.jpg",
-    "name": "Star Bharat HD",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "701524f373c55b2785ac49aab0bdc4a6:9de42eedb40f6c243848eb8aa8103e32",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/34/40/302086_1753186825930_l_high.jpg",
-    "name": "STAR Utsav",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Utsav_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "63456f11b1bf599a93a6a4b9a76db2bf:b47756e4d8fb938dcbcb72d6d877fbc3",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/11/79/302083_1753198669731_l_high.jpg",
-    "name": "Star Gold",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Gold_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "940a0a4080f553cab03ec23a2e80cf7c:b162354170b54cb588182eb75681cac0",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/65/42/301971_1753202660711_l_high.jpg",
-    "name": "Star Gold HD",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/87/52/302077_1753204067118_l_high.jpg",
-    "name": "Star Gold 2",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Gold_2_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "2db0cd9cb0685309b48e322c83192bda:e13bf7a33eb2e19a8f19568dd383ba6d",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/73/72/302104_1753204022975_l_high.jpg",
-    "name": "Star Gold 2 HD",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/81/53/302078_1753204173796_l_high.jpg",
-    "name": "Star Gold Select",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "09706397be655eb6a26c6ba99b65e6d5:acb1ebe04e2a29fe098d532d7a506846",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/90/90/301988_1753204123581_l_high.jpg",
-    "name": "Star Gold Select HD",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "2cb38dd5e6235bd9936ad7a29bc7ffd8:281d7b329be4e22d4e0e3e1d508ba2a4",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/26/56/302103_1753186907075_l_high.jpg",
-    "name": "Star Gold Romance",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Gold_Romance_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "ee6e9f18a6c155e3855700b34fa8436f:b670c81b0e4f7f19f1fbeac0eaa7fba8",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/0/16/302108_1753186948065_l_high.jpg",
-    "name": "Star Gold Thrills",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Gold_Thrills_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "189ccd629ff25ec1adc2e34d49b186eb:fd102ddbd3844b55b70c6aa23dbd212b",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/59/51/302000_1753204345248_l_high.jpg",
-    "name": "Star Utsav Movies",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Utsav_Movies_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "1faf9c42dfe45669a70c470359886145:5a229a5f6f270c880b24014bf3cd6ee7",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_high.jpg",
-    "name": "Star Sports 1 Hindi",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "8ea9b607549252068e260a5f4d7dd321:350c0aaffedf51cc1502e9543c7c885e",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_high.jpg",
-    "name": "Star Sports 1 Hindi HD",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/56/92/302115_1753188405640_l_high.jpg",
-    "name": "Star Sports 1",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_high.jpg",
-    "name": "Star Sports 1 HD",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_high.jpg",
-    "name": "Star Sports 2 Hindi",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sports18_1_SD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_high.jpg",
-    "name": "Star Sports 2 Hindi HD",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/11/30/302116_1749666029079_l_medium.jpg",
-    "name": "Star Sports 2",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "fc3aafe80845584199a637249fad2ffa:ca4474972fdb4bf8ecb164482853c692",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_high.jpg",
-    "name": "Star Sports 2 HD",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/78/2/302117_1753186010525_l_high.jpg",
-    "name": "Star Sports 3",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "e4e8647eaf0659ac85f61765a5abcdc1:d749c9b27505beb0e1a8b6c30ca65de6",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/imagespublic/58/36/301543_1696231657740_l_high.jpg",
-    "name": "Colors HD",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Colors_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/imagespublic/50/8/301797_1725603120083_l_high.jpg",
-    "name": "Colors Rishtey",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Rishtey_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "190829c4e2b05b8ca547d2cd30ab3bba:a28225e91492ce2d6601874c701bf9bd",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/imagespublic/60/76/301384_1683104125728_l_high.jpg",
-    "name": "Colors Cineplex Superhits",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Rishtey_Cineplex_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "234f3bf300e75c93a3825d54b1c0520b:53a4b6981fb1872c0ad4d197066e8c1f",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/imagespublic/2/73/301385_1683104330011_l_high.jpg",
-    "name": "Colors Cineplex HD",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Colors_Cineplex_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "bc74a4c7b66856f19ce77fffecd18590:5532bd5f660547d3b82992f1ef471d6a",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/imagespublic/26/56/301024_1619522312668_l_high.jpg",
-    "name": "Colors Cineplex Bollywood",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Colors_Cineplex_Bollywood_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "061b3f55b6695e978b208f5117e609ee:9a6da304db8cfb545805d3152a5d66ed",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/84/38/301978_1749652834239_l_high.jpg",
-    "name": "Star Maa Movies HD",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/57/79/301980_1753202724101_l_high.jpg",
-    "name": "Star Movies HD",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/79/1/301984_1753202771128_l_high.jpg",
-    "name": "Star Movies Select HD",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "b55393cd147a54debaf2b0f2d82b5d9f:6b168db49241a78c1b423ab9a29409ef",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/39/9/301985_1749652884224_l_high.jpg",
-    "name": "Star Maa Movies",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Maa_Movies_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/61/7/301986_1749652712205_l_high.jpg",
-    "name": "Star Maa HD",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Maa_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "6c4b78251e865fc2a23a000374c8e725:983ecd2ffe60cdcf2e5e76ae229a5cb8",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/98/48/301989_1749664475828_l_high.jpg",
-    "name": "Star Sports Select 2",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "ec7d009d07aa5cbc81a441880530dfa5:8147983ad7402ebfc222d28b667a196f",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/30/15/301990_1753204237734_l_high.jpg",
-    "name": "Star Movies",
-    "link": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Movies_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "e705c9330a935a119021d97c7677ce62:dd306a57de1715b0e1256d5c1737f485",
-    "cookie": "__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"
-  },
-]
 
 
 

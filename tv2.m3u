@@ -222,9 +222,9 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156012&ex
 #EXTINF:-1 group-title="Entertainment",ANIMAL PLANET
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156168&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_high.jpg" group-title="Sports",Star Sports 1 Hindi
-http://m3u7.scandictv.com:80/play/live.php?mac=00:1A:79:bf:e4:17&stream=1114582&extension=ts&play_token=5t6pBb4bwa
+http://line.chumala.com:80/play/live.php?mac=00:1A:79:00:25:EF&stream=1114582&extension=ts&play_token=ZZPnyo9Isl
 #EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_high.jpg" group-title="Sports", STAR SPORTS 2 HINDI
-http://m3u7.scandictv.com:80/play/live.php?mac=00:1A:79:bf:e4:17&stream=1698894&extension=ts&play_token=RDP4lvGrhM
+http://line.chumala.com:80/play/live.php?mac=00:1A:79:00:25:EF&stream=1698894&extension=ts&play_token=XibRNHUu1H
 #EXTINF:-1 group-title="Sports", SONY TEN 3
 http://m3u7.scandictv.com:80/play/live.php?mac=00:1A:79:bf:e4:17&stream=156024&extension=ts&play_token=JJ140jHpop
 #EXTINF:-1 group-title="Sports", SONY TEN 2
@@ -309,6 +309,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mp
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd?__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315&xxx=%7Ccookie=__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315
+
 
 
 

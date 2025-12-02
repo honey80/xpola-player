@@ -228,7 +228,7 @@ http://line.chumala.com:80/play/live.php?mac=00:1A:79:00:25:EF&stream=1698894&ex
 #EXTINF:-1 group-title="Sports", SONY TEN 3
 http://m3u7.scandictv.com:80/play/live.php?mac=00:1A:79:bf:e4:17&stream=156024&extension=ts&play_token=JJ140jHpop
 #EXTINF:-1 group-title="Sports", SONY TEN 2
-http://m3u7.scandictv.com:80/play/live.php?mac=00:1A:79:bf:e4:17&stream=156010&extension=ts&play_token=KeVFpD1NQl
+https://keys.vodep39240327.workers.dev/?id=4470.mpd|license_type=clearkey&license_key=https://keys.vodep39240327.workers.dev/?key=4470
 #EXTINF:-1 group-title="Sports", SONY TEN 1
 https://keys.vodep39240327.workers.dev/?id=1984.mpd|license_type=clearkey&license_key=https://keys.vodep39240327.workers.dev/?key=1984
 #EXTINF:-1 group-title="Sports", DD SPORTS
@@ -309,6 +309,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mp
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd?__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315&xxx=%7Ccookie=__hdnea__=st=1764484805~exp=1764571205~acl=/*~hmac=9d433bb8181de447938e1a5e2ca2c7b4ac37d480e905d797045f4e52af158315
+
 
 
 

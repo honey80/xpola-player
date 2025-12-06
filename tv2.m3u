@@ -125,32 +125,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 group-title="MOVIES",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/%26priv%C3%A9_HD.svg" group-title="MOVIES",Kadak
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=280798&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="MOVIES",MINIPLEX
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156020&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title=" World News",FOX News
 http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:c4:cb:7f&stream=45573&extension=ts&play_token=b84RM4aUNA
 #EXTINF:-1 group-title=" World News",CNN News
 http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:c4:cb:7f&stream=442785&extension=ts&play_token=2Mp2kkgwgw
-#EXTINF:-1 group-title="MOVIES",BFLIX
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=280803&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="MOVIES",B4U MOVIES
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=155987&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="MOVIES",COLORS CINEPLEX BOLLYWOOD
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=946375&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="MOVIES",STAR GOLD ROMANCE
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156033&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="MOVIES",STAR GOLD THRILLS
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1118072&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="MOVIES",MNX
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156021&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="MUSIC",BALLE BALLE
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
-#EXTINF:-1 group-title="Entertainment",ZEE CAFE HD
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=155730&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://www.ptcnetwork.tv/wp-content/uploads/2016/06/images.png" group-title="MUSIC",PTC CHAKDE
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1527139&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="MUSIC",MTV HD 
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156002&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/%26xplor_HD_logo.png" group-title="MOVIES",AND EXPLORE HD
@@ -167,20 +149,12 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156013&ex
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156118&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/4/4d/Sony_Pix_new_logo.png" group-title="MOVIES",SONY PIX HD
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156004&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png" group-title="MOVIES",SONY WAH HD
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156039&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/2349px-Star_Gold_2020.svg.png" group-title="MOVIES",STAR GOLD HD
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=155969&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Star_Gold_Select.svg/revision/latest?cb=20211216003620" group-title="MOVIES",STAR GOLD SELECT HD
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=155970&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",ZEE CINEMA HD
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=155975&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",ZEE CINEMA 
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1532857&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="MOVIES",ZEE ACTION HD
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156139&extension=ts&play_token=pMEfLLjxPU
-#EXTINF:-1 group-title="MOVIES", HBO HD
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=155734&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="MOVIES", MOVIES NOW HD
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1116477&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="MOVIES", STAR MOVIES SELECT HD
@@ -214,7 +188,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156173&ex
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png" group-title="Entertainment",Colors
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156172&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="Entertainment",NAT GEO WILD
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=155989&extension=ts&play_token=pMEfLLjxPU
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=155989&extension=ts&play_token=VBcY6qCscr
 #EXTINF:-1 group-title="Entertainment",DISCOVERY WORLD
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=155999&extension=ts&play_token=pMEfLLjxPU
 #EXTINF:-1 group-title="Entertainment",BBC EARTH
@@ -289,6 +263,26 @@ http://myuniquetv.cc:80/play/live.php?mac=00:1A:79:3F:C2:10&stream=156003&extens
 http://iptvline.ddns.net:80/play/live.php?mac=00:1A:79:c3:02:c1&stream=156003&extension=ts&play_token=WajcxixVVp
 #EXTINF:-1 group-title="TEST", TEST 4
 http://line.chumala.com:80/play/live.php?mac=00:1A:79:00:25:EF&stream=155975&extension=ts&play_token=jZPXpEH3rB
+#EXTINF:-1 group-title="MOVIES 2", AND PICTURES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=155997&extension=ts&play_token=b8GTCDvnBV
+#EXTINF:-1 group-title="MOVIES 2", colors cineplex
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=156003&extension=ts&play_token=XarC6cwUWd
+#EXTINF:-1 group-title="MOVIES 2", SONY MAX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=156013&extension=ts&play_token=09CH8rpyS8
+#EXTINF:-1 group-title="MOVIES 2", STAR GOLD 
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=155969&extension=ts&play_token=oZSIglAyfB
+#EXTINF:-1 group-title="MOVIES 2", STAR GOLD 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=1112132&extension=ts&play_token=uscTBo6qu9
+#EXTINF:-1 group-title="MOVIES 2", ZEE CINEMA HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=155975&extension=ts&play_token=MlT0CsKLrP
+#EXTINF:-1 group-title="MOVIES 2", DHINCHAK 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=157155&extension=ts&play_token=qiHCp6TisV
+#EXTINF:-1 group-title="MOVIES 2", DHINCHAK 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=157158&extension=ts&play_token=9i7GRezlVQ
+
+
+
+
 
 
 

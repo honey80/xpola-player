@@ -264,21 +264,21 @@ http://iptvline.ddns.net:80/play/live.php?mac=00:1A:79:c3:02:c1&stream=156003&ex
 #EXTINF:-1 group-title="TEST", TEST 4
 http://line.chumala.com:80/play/live.php?mac=00:1A:79:00:25:EF&stream=155975&extension=ts&play_token=jZPXpEH3rB
 #EXTINF:-1 group-title="MOVIES 2", AND PICTURES
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=155997&extension=ts&play_token=b8GTCDvnBV
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:78:AB:DF&stream=440348&extension=ts&play_token=av3BGerPLX
 #EXTINF:-1 group-title="MOVIES 2", colors cineplex
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=156003&extension=ts&play_token=XarC6cwUWd
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:78:AB:DF&stream=440357&extension=ts&play_token=MbccgrGDs9
 #EXTINF:-1 group-title="MOVIES 2", SONY MAX
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=156013&extension=ts&play_token=09CH8rpyS8
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:78:AB:DF&stream=440501&extension=ts&play_token=UI0wv2DyuC
 #EXTINF:-1 group-title="MOVIES 2", STAR GOLD 
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=155969&extension=ts&play_token=oZSIglAyfB
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:78:AB:DF&stream=440261&extension=ts&play_token=r2DLRMK2um
 #EXTINF:-1 group-title="MOVIES 2", STAR GOLD 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=1112132&extension=ts&play_token=uscTBo6qu9
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:78:AB:DF&stream=720837&extension=ts&play_token=Fm05Jf0o9u
 #EXTINF:-1 group-title="MOVIES 2", ZEE CINEMA HD
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=155975&extension=ts&play_token=MlT0CsKLrP
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:78:AB:DF&stream=440253&extension=ts&play_token=IPfamwuWZS
 #EXTINF:-1 group-title="MOVIES 2", DHINCHAK 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=157155&extension=ts&play_token=qiHCp6TisV
+https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 group-title="MOVIES 2", DHINCHAK 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=157158&extension=ts&play_token=9i7GRezlVQ
+https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 group-title="Zee 5", Prive HD
 https://ze5.vodep39240327.workers.dev/channel/&Prive HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5", Zee Tv HD
@@ -293,6 +293,7 @@ https://ze5.vodep39240327.workers.dev/channel/Zee Cinema HD.m3u8|user-agent=Mozi
 https://ze5.vodep39240327.workers.dev/channel/&Pictures HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5", Xplor HD
 https://ze5.vodep39240327.workers.dev/channel/&xplorHD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+
 
 
 

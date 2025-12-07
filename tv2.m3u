@@ -279,7 +279,20 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=155975&ex
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=157155&extension=ts&play_token=qiHCp6TisV
 #EXTINF:-1 group-title="MOVIES 2", DHINCHAK 2
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=157158&extension=ts&play_token=9i7GRezlVQ
-
+EXTINF:-1 group-title="Zee 5", Prive HD
+https://ze5.vodep39240327.workers.dev/channel/&Prive HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+EXTINF:-1 group-title="Zee 5", Zee Tv HD
+https://ze5.vodep39240327.workers.dev/channel/Zee TV HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+EXTINF:-1 group-title="Zee 5", And Tv HD
+https://ze5.vodep39240327.workers.dev/channel/&TV HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+EXTINF:-1 group-title="Zee 5", Zee Anmol Cinema HD
+https://ze5.vodep39240327.workers.dev/channel/Zee Anmol Cinema 2.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+EXTINF:-1 group-title="Zee 5", Zee Cinema HD
+https://ze5.vodep39240327.workers.dev/channel/Zee Cinema HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+EXTINF:-1 group-title="Zee 5", And Pictures HD
+https://ze5.vodep39240327.workers.dev/channel/&Pictures HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+EXTINF:-1 group-title="Zee 5", Xplor HD
+https://ze5.vodep39240327.workers.dev/channel/&xplorHD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 
 
 

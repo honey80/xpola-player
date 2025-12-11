@@ -257,6 +257,18 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BC:8E:69&stream=1698894&e
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=1114582&extension=ts&play_token=YF1H6dU6K9
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 8
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=1698894&extension=ts&play_token=3EhW3jQFIP
+#EXTINF:-1 group-title="TATA IPL 2025", IPL 9
+http://404focusnotfound.com:80/play/live.php?mac=00:1A:79:13:45:AA&stream=1698894&extension=ts&play_token=1S6bYNitbt
+#EXTINF:-1 group-title="TATA IPL 2025", IPL 10
+http://404focusnotfound.com:80/play/live.php?mac=00:1A:79:13:45:AA&stream=1114582&extension=ts&play_token=GzhS1Pcd14
+#EXTINF:-1 group-title="TATA IPL 2025", IPL 11
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:0E:16:76&stream=1698894&extension=ts&play_token=ofuRyLecAe
+#EXTINF:-1 group-title="TATA IPL 2025", IPL 12
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:0E:16:76&stream=1114582&extension=ts&play_token=kqmotWfCxx
+#EXTINF:-1 group-title="TATA IPL 2025", IPL 13
+http://iptvline.ddns.net:80/play/live.php?mac=00:1A:79:c3:02:c1&stream=1698894&extension=ts&play_token=fbmUhT35Dm
+#EXTINF:-1 group-title="TATA IPL 2025", IPL 14
+http://iptvline.ddns.net:80/play/live.php?mac=00:1A:79:c3:02:c1&stream=1114582&extension=ts&play_token=Zxls7Qs2uX
 #EXTINF:-1 group-title="TEST", TEST 1
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=156003&extension=ts&play_token=VBcY6qCscr
 #EXTINF:-1 group-title="TEST", TEST 2
@@ -295,6 +307,7 @@ https://ze5.vodep39240327.workers.dev/channel/Zee Cinema HD.m3u8|user-agent=Mozi
 https://ze5.vodep39240327.workers.dev/channel/&Pictures HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5", Xplor HD
 https://ze5.vodep39240327.workers.dev/channel/&xplorHD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+
 
 
 

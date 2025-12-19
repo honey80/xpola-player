@@ -200,11 +200,11 @@ http://myuniquetv.cc:80/play/live.php?mac=00:1A:79:3F:C2:10&stream=1114582&exten
 #EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_high.jpg" group-title="Sports", STAR SPORTS 2 HINDI
 http://myuniquetv.cc:80/play/live.php?mac=00:1A:79:3F:C2:10&stream=1698894&extension=ts&play_token=mq7LXJAHAD
 #EXTINF:-1 group-title="Sports", SONY TEN 3
-http://line.chumala.com:80/play/live.php?mac=00:1A:79:00:25:EF&stream=1114578&extension=ts&play_token=5qpixqgyIV
+http://myuniquetv.cc:80/play/live.php?mac=00:1A:79:3F:C2:10&stream=1114578&extension=ts&play_token=Wns6krJ9jK
 #EXTINF:-1 group-title="Sports", SONY TEN 2
-http://line.chumala.com:80/play/live.php?mac=00:1A:79:00:25:EF&stream=1114577&extension=ts&play_token=cfO96Wos57
+http://myuniquetv.cc:80/play/live.php?mac=00:1A:79:3F:C2:10&stream=1114577&extension=ts&play_token=VCeKLyv2OL
 #EXTINF:-1 group-title="Sports", SONY TEN 1
-http://line.chumala.com:80/play/live.php?mac=00:1A:79:00:25:EF&stream=1114576&extension=ts&play_token=aaWpRvjhOH
+http://myuniquetv.cc:80/play/live.php?mac=00:1A:79:3F:C2:10&stream=1114576&extension=ts&play_token=8CzC7KW4eg
 #EXTINF:-1 group-title="Sports", DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/ba/Colors_TV.svg.png" group-title="Entertainment",And tv
@@ -307,6 +307,7 @@ https://ze5.vodep39240327.workers.dev/channel/Zee Cinema HD.m3u8|user-agent=Mozi
 https://ze5.vodep39240327.workers.dev/channel/&Pictures HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5", Xplor HD
 https://ze5.vodep39240327.workers.dev/channel/&xplorHD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+
 
 
 

@@ -200,11 +200,11 @@ http://myuniquetv.cc:80/play/live.php?mac=00:1A:79:3F:C2:10&stream=1114582&exten
 #EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_high.jpg" group-title="Sports", STAR SPORTS 2 HINDI
 http://myuniquetv.cc:80/play/live.php?mac=00:1A:79:3F:C2:10&stream=1698894&extension=ts&play_token=mq7LXJAHAD
 #EXTINF:-1 group-title="Sports", SONY TEN 3
-http://myuniquetv.cc:80/play/live.php?mac=00:1A:79:3F:C2:10&stream=1114578&extension=ts&play_token=Wns6krJ9jK
+http://18516019264.com:80/play/live.php?mac=00:1A:79:08:e2:8a&stream=339493&extension=ts&play_token=izaO7HnwfM
 #EXTINF:-1 group-title="Sports", SONY TEN 2
-http://myuniquetv.cc:80/play/live.php?mac=00:1A:79:3F:C2:10&stream=1114577&extension=ts&play_token=VCeKLyv2OL
+http://18516019264.com:80/play/live.php?mac=00:1A:79:08:e2:8a&stream=339494&extension=ts&play_token=PARSPk2S46
 #EXTINF:-1 group-title="Sports", SONY TEN 1
-http://myuniquetv.cc:80/play/live.php?mac=00:1A:79:3F:C2:10&stream=1114576&extension=ts&play_token=8CzC7KW4eg
+http://18516019264.com:80/play/live.php?mac=00:1A:79:08:e2:8a&stream=339495&extension=ts&play_token=LNQBWhmQL3
 #EXTINF:-1 group-title="Sports", DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/ba/Colors_TV.svg.png" group-title="Entertainment",And tv
@@ -242,9 +242,9 @@ https://sl.vodep39240327.workers.dev/channel/SONY TEN 4 HD.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Ten 5
 https://sl.vodep39240327.workers.dev/channel/SONY TEN 5 HD.m3u8
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 1
-http://dino2.123sat.net:80/play/live.php?mac=00:1A:79:4E:6E:17&stream=843539&extension=ts&play_token=EOFvcNCfab
+http://18516019264.com:80/play/live.php?mac=00:1A:79:08:e2:8a&stream=339491&extension=ts&play_token=LbhF7feDA4
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 2
-http://dino2.123sat.net:80/play/live.php?mac=00:1A:79:4E:6E:17&stream=843538&extension=ts&play_token=Fj49h60QKu
+http://18516019264.com:80/play/live.php?mac=00:1A:79:08:e2:8a&stream=339492&extension=ts&play_token=pToGMDfPUC
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 3
 http://dubaihomework.xyz:80/play/jQ2f3yDtKtKEdNKIrnicj6mgiXv-2mihlHKDdSad6mROMPfpztzb5d4HKcjMMY90YDmDFWry51BOaPM7VRPpn_TXBDAlJwVwem3GQzYP5ik?ext=.ts
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 4
@@ -307,6 +307,7 @@ https://ze5.vodep39240327.workers.dev/channel/Zee Cinema HD.m3u8|user-agent=Mozi
 https://ze5.vodep39240327.workers.dev/channel/&Pictures HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5", Xplor HD
 https://ze5.vodep39240327.workers.dev/channel/&xplorHD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+
 
 
 

@@ -198,7 +198,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=156168&ex
 #EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_high.jpg" group-title="Sports",Star Sports 1 Hindi
 http://myuniquetv.cc:80/play/live.php?mac=00:1A:79:3F:C2:10&stream=1114582&extension=ts&play_token=9J5zdLcEX0
 #EXTINF:-1 tvg-id="Sports1.in" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_high.jpg" group-title="Sports", STAR SPORTS 2 HINDI
-http://myuniquetv.cc:80/play/live.php?mac=00:1A:79:3F:C2:10&stream=1698894&extension=ts&play_token=mq7LXJAHAD
+https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/index2.m3u8?|Cookie=hdntl=exp=1768201558~acl=%2f*~id=190ac98179344a21461fd22ea60e6d5e~data=hdntl~hmac=2c6d75d058b3f4e6ffcb946a80fac03d593aad710f0439c33c5038b9eaa1294f&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)
 #EXTINF:-1 group-title="Sports", SONY TEN 3
 http://18516019264.com:80/play/live.php?mac=00:1A:79:08:e2:8a&stream=339493&extension=ts&play_token=izaO7HnwfM
 #EXTINF:-1 group-title="Sports", SONY TEN 2
@@ -307,6 +307,7 @@ https://ze5.vodep39240327.workers.dev/channel/Zee Cinema HD.m3u8|user-agent=Mozi
 https://ze5.vodep39240327.workers.dev/channel/&Pictures HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5", Xplor HD
 https://ze5.vodep39240327.workers.dev/channel/&xplorHD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+
 
 
 

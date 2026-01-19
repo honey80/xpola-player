@@ -270,11 +270,11 @@ http://iptvline.ddns.net:80/play/live.php?mac=00:1A:79:c3:02:c1&stream=1698894&e
 #EXTINF:-1 group-title="TATA IPL 2025", IPL 14
 http://iptvline.ddns.net:80/play/live.php?mac=00:1A:79:c3:02:c1&stream=1114582&extension=ts&play_token=Zxls7Qs2uX
 #EXTINF:-1 group-title="TEST", TEST 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:64:34:66&stream=156003&extension=ts&play_token=VBcY6qCscr
+https://la.drmlive.net/tp/sling-22.mpd|license_type=clearkey&license_key=https://la.drmlive.net/tp/sling_ck?id=22
 #EXTINF:-1 group-title="TEST", TEST 2
-https://jt.drmlive.net/jiotvplus/1108.mpd|license_type=clearkey&license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1108
+https://la.drmlive.net/tp/sling-672.mpd|license_type=clearkey&license_key=https://la.drmlive.net/tp/sling_ck?id=672
 #EXTINF:-1 group-title="TEST", TEST 3
-http://iptvline.ddns.net:80/play/live.php?mac=00:1A:79:c3:02:c1&stream=156003&extension=ts&play_token=WajcxixVVp
+https://mix.drmlive.net/mix/sportswillows.mpd|license_type=clearkey&license_key=https://mix.drmlive.net/mix/sports_key.php?id=willows
 #EXTINF:-1 group-title="TEST", TEST 4
 http://line.chumala.com:80/play/live.php?mac=00:1A:79:00:25:EF&stream=155975&extension=ts&play_token=jZPXpEH3rB
 #EXTINF:-1 group-title="MOVIES 2", AND PICTURES
@@ -307,6 +307,7 @@ https://ze5.vodep39240327.workers.dev/channel/Zee Cinema HD.m3u8|user-agent=Mozi
 https://ze5.vodep39240327.workers.dev/channel/&Pictures HD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #EXTINF:-1 group-title="Zee 5", Xplor HD
 https://ze5.vodep39240327.workers.dev/channel/&xplorHD.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+
 
 
 
